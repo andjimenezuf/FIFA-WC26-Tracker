@@ -1,0 +1,290 @@
+[
+  {
+    "code": "MEX",
+    "name": "Mexico",
+    "group": "A",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "RSA",
+    "name": "South Africa",
+    "group": "A",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "KOR",
+    "name": "South Korea",
+    "group": "A",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "CZE",
+    "name": "Czechia",
+    "group": "A",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "CAN",
+    "name": "Canada",
+    "group": "B",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "BIH",
+    "name": "Bosnia & Herzegovina",
+    "group": "B",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "QAT",
+    "name": "Qatar",
+    "group": "B",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "SUI",
+    "name": "Switzerland",
+    "group": "B",
+    "outcome": "Eliminated in the quarterfinals"
+  },
+  {
+    "code": "BRA",
+    "name": "Brazil",
+    "group": "C",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "MAR",
+    "name": "Morocco",
+    "group": "C",
+    "outcome": "Eliminated in the quarterfinals"
+  },
+  {
+    "code": "HAI",
+    "name": "Haiti",
+    "group": "C",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "SCO",
+    "name": "Scotland",
+    "group": "C",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "USA",
+    "name": "United States",
+    "group": "D",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "PAR",
+    "name": "Paraguay",
+    "group": "D",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "AUS",
+    "name": "Australia",
+    "group": "D",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "TUR",
+    "name": "Türkiye",
+    "group": "D",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "GER",
+    "name": "Germany",
+    "group": "E",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "CUW",
+    "name": "Curaçao",
+    "group": "E",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "CIV",
+    "name": "Ivory Coast",
+    "group": "E",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "ECU",
+    "name": "Ecuador",
+    "group": "E",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "NED",
+    "name": "Netherlands",
+    "group": "F",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "JPN",
+    "name": "Japan",
+    "group": "F",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "SWE",
+    "name": "Sweden",
+    "group": "F",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "TUN",
+    "name": "Tunisia",
+    "group": "F",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "BEL",
+    "name": "Belgium",
+    "group": "G",
+    "outcome": "Eliminated in the quarterfinals"
+  },
+  {
+    "code": "EGY",
+    "name": "Egypt",
+    "group": "G",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "IRN",
+    "name": "Iran",
+    "group": "G",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "NZL",
+    "name": "New Zealand",
+    "group": "G",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "ESP",
+    "name": "Spain",
+    "group": "H",
+    "outcome": "World Cup winners"
+  },
+  {
+    "code": "CPV",
+    "name": "Cape Verde",
+    "group": "H",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "KSA",
+    "name": "Saudi Arabia",
+    "group": "H",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "URU",
+    "name": "Uruguay",
+    "group": "H",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "FRA",
+    "name": "France",
+    "group": "I",
+    "outcome": "Fourth place"
+  },
+  {
+    "code": "SEN",
+    "name": "Senegal",
+    "group": "I",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "IRQ",
+    "name": "Iraq",
+    "group": "I",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "NOR",
+    "name": "Norway",
+    "group": "I",
+    "outcome": "Eliminated in the quarterfinals"
+  },
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "group": "J",
+    "outcome": "Runners-up"
+  },
+  {
+    "code": "ALG",
+    "name": "Algeria",
+    "group": "J",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "AUT",
+    "name": "Austria",
+    "group": "J",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "JOR",
+    "name": "Jordan",
+    "group": "J",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "POR",
+    "name": "Portugal",
+    "group": "K",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "COD",
+    "name": "DR Congo",
+    "group": "K",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "UZB",
+    "name": "Uzbekistan",
+    "group": "K",
+    "outcome": "Eliminated in the group stage"
+  },
+  {
+    "code": "COL",
+    "name": "Colombia",
+    "group": "K",
+    "outcome": "Eliminated in the round of 16"
+  },
+  {
+    "code": "ENG",
+    "name": "England",
+    "group": "L",
+    "outcome": "Third place"
+  },
+  {
+    "code": "CRO",
+    "name": "Croatia",
+    "group": "L",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "GHA",
+    "name": "Ghana",
+    "group": "L",
+    "outcome": "Eliminated in the round of 32"
+  },
+  {
+    "code": "PAN",
+    "name": "Panama",
+    "group": "L",
+    "outcome": "Eliminated in the group stage"
+  }
+]

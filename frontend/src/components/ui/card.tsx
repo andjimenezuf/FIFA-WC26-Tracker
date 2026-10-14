@@ -1,0 +1,15 @@
+import { cn } from "cnfast";
+import type { ComponentProps } from "react";
+
+/** Bordered surface; callers add their own layout. */
+export function Card({ className, ...props }: ComponentProps<"div">) {
+  return (
+    <div
+      className={cn(
+        "overflow-hidden rounded-lg border-2 border-surface-border bg-card",
+        className,
+      )}
+      {...props}
+    />
+  );
+}

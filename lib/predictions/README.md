@@ -1,0 +1,170 @@
+# predictions
+
+Everything we forecast from Polymarket markets for the 2026 World Cup: the
+knockout bracket (who reaches each match, the champion), per-group standings
+odds, and per-group-fixture predictions (most-likely exact scoreline and two-way
+win odds). One JSON snapshot — the data that feeds a UI, with no UI of its own.
+
+The runtime needs the global `fetch`, `node:fs` (to read the bundled catalogs),
+the sibling [`tournament`](../tournament) module (static bracket facts), and one
+small dependency — [`bottleneck`](https://www.npmjs.com/package/bottleneck) — to
+keep Polymarket requests under the API's rate limits. No framework, no hidden
+state.
+
+## Usage
+
+```ts
+import { buildPredictions } from "./predictions"
+
+const snapshot = await buildPredictions()
+// → { updatedAt, slots, champion, bracketChampion, groups, reach, ... }
+```
+
+As a script:
+
+```sh
+bun run lib/predictions/cli.ts          # pretty-printed JSON
+bun run lib/predictions/cli.ts --min    # one line, for piping into an API
+```
+
+Each call fetches fresh prices and refits the model. The fit is deterministic:
+identical prices always yield identical output.
+
+### The daily epoch (warm-start + baseline)
+
+The bulk of the compute is the model's *anchor* — an averaged, stable fit that
+takes ~2 s but barely moves between price refreshes. Rather than pay it on every
+rebuild, a once-a-day job (`captureDailySnapshot`, run by the rollover schedule)
+computes an authoritative snapshot and persists it as the **epoch** via Vercel
+Blob (`epoch.ts`). Every per-minute rebuild then passes that epoch to
+`buildPredictions`, which warm-starts the fit from its `teamStrengths` and skips
+the anchor entirely:
+
+```ts
+const epoch = await readLatestEpoch()      // start-of-day snapshot, or null
+await buildPredictions(cache, thirds, epoch)
+// with an epoch: ~0.3 s (80-step warm start). without one: ~2 s (anchor fit).
+```
+
+Measured ~4.7× faster than the cold anchor path. When no epoch exists (first
+deploy, or local dev with no blob configured), it falls back to computing the
+anchor once and caching it on the passed `cache` object.
+
+## What it returns
+
+| field             | meaning                                                                |
+| ----------------- | ---------------------------------------------------------------------- |
+| `updatedAt`       | ISO timestamp of this snapshot                                         |
+| `slots`           | every knockout slot (matches 73–104, home/away) as a team distribution |
+| `champion`        | the direct Polymarket champion market, capped by each team's reach-final signal (so a just-eliminated team whose champion sub-market still lags can't lead) and normalized |
+| `bracketChampion` | BT-model winner of the Final — pairwise, no 50/50 assumption           |
+| `groups`          | per-group odds: P(win group), P(runner-up), P(advance)                 |
+| `reach`           | per-team P(reach R16 / QF / SF / Final), plus the market champion price |
+| `groupScores`     | most-likely exact scoreline per unplayed group fixture, by id (`"A1"`..) |
+| `matchOdds`       | two-way home/away win chance per group fixture with a priced market    |
+| `knockoutScores`  | most-likely exact scoreline per decided knockout match with a per-game market, by match number |
+| `knockoutScoreChances` | every listed scoreline's chance for those same matches (normalized, most-likely first) — the matrix behind `knockoutScores` |
+| `knockoutOdds`    | the market's direct read of each decided knockout match: per-game regulation three-way (home/draw/away) + the two-way "to advance" odds from each side's reach-the-next-round future |
+| `matchWinOdds`    | win distribution per knockout match (73–104). Decided matchups come straight from the market; the rest are the BT model |
+| `baseline`        | the same bracket outputs (`slots`, `bracketChampion`, `reach`, `knockoutScores`, `knockoutOdds`, `matchWinOdds`, `teamStrengths`) from the start-of-day **epoch** — the before/after counterpart for the bars |
+
+The `baseline` block is the persisted start-of-day epoch (`epoch.ts`), not a
+recompute: the bars diff the live bracket against it to show the move since the
+day began. Until the first epoch is captured it equals the live bracket (every
+delta zero). The stored epoch itself carries no `baseline`, so history files stay
+flat.
+
+Teams are FIFA 3-letter codes (`BRA`, `ARG`, …). Probabilities are in `[0, 1]`,
+rounded to four decimals.
+
+## How it works
+
+```text
+fetch markets         market-api.ts       live Yes prices (CLOB midpoints + Gamma fallback)
+  → reach + R32       markets.ts          prices → reach targets and group-slot distributions
+fetch knockout games  knockout-markets.ts exact-score (argmax) + per-game three-way per decided KO match
+  → fit + simulate    bradley-terry.ts    SPSA fit of 48 strengths; decided R32 matches pinned to the market
+fetch group markets   group-markets.ts    exact-score (argmax) + moneyline (two-way) per group fixture
+  → assemble          index.ts            everything above → one JSON snapshot
+```
+
+The model fits 48 latent team strengths so the simulated reach probabilities
+(R16 → Final) match Polymarket's `reach_*` / `elim_*` markets, where
+`P(A beats B) = s_A / (s_A + s_B)`. The outright **champion** market is
+deliberately *not* fitted, so it stays an independent comparison against the
+model's `bracketChampion`. The third-place play-off (match 103) is filled from
+the simulation's beaten semi-finalists. Group fixtures get their predictions
+straight from the per-match markets (`group-markets.ts`).
+
+**Decided knockout matches aren't inferred.** Once both sides of a knockout
+matchup are known — an R32 slot settled by the groups, or a later-round game fed
+by settled results — Polymarket prices that exact matchup directly (a per-game
+three-way plus an exact-score market). For those matches we skip the BT pairwise
+estimate and pin the winner to the market's two-way **"team to advance"** odds.
+Those come from each side's *reach-the-next-round* future (R32 → reach R16,
+R16 → reach QF, …, and the champion market for the Final), not the regulation
+money line: a knockout can end level after 90' (a draw) yet still send one team
+through, so the money line would read the wrong thing while the future keeps
+pricing who actually goes on. That override feeds the rest of the bracket too,
+so each later round's inference starts from the market's real results instead of
+the fit's guess. A settled future also decides the match itself, so decided
+matchups cascade round by round. The third-place play-off has no future market;
+it gets the scoreline and three-way only.
+
+## Files
+
+| file               | role                                                            |
+| ------------------ | --------------------------------------------------------------- |
+| `index.ts`         | `buildPredictions()` + the output types — the entry point       |
+| `markets.ts`       | futures prices → reach targets and group-slot distributions     |
+| `bradley-terry.ts` | the BT model: SPSA fit + bracket simulation (with winner overrides) |
+| `group-markets.ts` | per-group-fixture exact scoreline + two-way win odds            |
+| `knockout-markets.ts` | per-knockout-match exact scoreline + per-game three-way odds  |
+| `epoch.ts`         | read/write the persisted start-of-day epoch ([`lib/storage`](../storage) over Vercel Blob) — warm-start seed + baseline |
+| `market-api.ts`    | fetch live prices (rate-limited CLOB + Gamma)                   |
+| `markets.json`     | futures catalog (advance / reach / elim / champion token ids)   |
+| `group-markets.json` | per-group-fixture catalog (exact-score + moneyline token ids) |
+| `knockout-markets.json` | per-knockout-match catalog (exact-score + three-way token ids) |
+| `cli.ts`           | print a snapshot as JSON                                        |
+| `sync.ts`          | regenerate `markets.json` (build-time tool)                     |
+
+Static bracket facts (teams, groups, knockout graph) come from the sibling
+[`tournament`](../tournament) module.
+
+## Where the data comes from: open vs. settled
+
+A Polymarket market is either **open** (price moves every second) or **settled**
+(resolved, price fixed at 0 or 1 forever). The two are handled differently:
+
+- **Open markets** — fetched live on every `buildPredictions()` call (CLOB
+  midpoints). Never stored.
+- **Settled markets** — their final 0/1 price is **baked into `markets.json` by
+  `sync`** (the `settled` field). The runtime reads it straight from the catalog
+  and never queries those markets again — a settled price can't change.
+
+So the catalog is both *which* markets to read and *the immutable prices we
+already know*. As the tournament progresses each re-sync moves more markets into
+the settled set, so the live CLOB batch keeps shrinking.
+
+**The gap between syncs:** a market that resolves *after* the last sync is still
+marked open in the catalog, so the CLOB has no midpoint for it. Those few fall
+through to the Gamma fallback, which returns their settled price for that run —
+until the next `sync` bakes it in. So nothing is ever missing; re-syncing just
+moves work from the runtime fallback into the static file.
+
+```sh
+bun run lib/predictions/sync.ts   # rewrites markets.json + group-markets.json + knockout-markets.json
+```
+
+`sync` discovers markets from Polymarket's Gamma API (open *and* closed events,
+so settled prices get baked), maps team labels to FIFA codes via the `tournament`
+module, and refreshes all three catalogs. Run it periodically (e.g. daily, or
+after a matchday) and commit the result. `group-markets.json` and
+`knockout-markets.json` hold only still-unplayed fixtures — once a match is
+played its result comes from the `results` module, not a forecast.
+
+## Notes
+
+- Reaching Polymarket needs outbound access to `clob.polymarket.com` and
+  `gamma-api.polymarket.com`. In a sandbox that blocks them, prices come back
+  empty and every probability is `0`.

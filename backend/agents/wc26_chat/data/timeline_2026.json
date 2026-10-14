@@ -1,0 +1,9756 @@
+{
+  "1": [
+    {
+      "minute": "9'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Julián Quiñones"
+    },
+    {
+      "minute": "17'",
+      "type": "yellow_card",
+      "team": "RSA",
+      "player": "Teboho Mokoena"
+    },
+    {
+      "minute": "23'",
+      "type": "yellow_card",
+      "team": "MEX",
+      "player": "Brian Gutiérrez"
+    },
+    {
+      "minute": "49'",
+      "type": "red_card",
+      "team": "RSA",
+      "player": "Sphephelo Sithole"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Thalente Mbatha"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Themba Zwane"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Luis Chávez"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Gilberto Mora"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Raúl Jiménez"
+    },
+    {
+      "minute": "74'",
+      "type": "yellow_card",
+      "team": "RSA",
+      "player": "Nkosinathi Sibisi"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Edson Álvarez"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Armando González"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Evidence Makgopa"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Oswin Appollis"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Alexis Vega"
+    },
+    {
+      "minute": "84'",
+      "type": "red_card",
+      "team": "RSA",
+      "player": "Themba Zwane"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "red_card",
+      "team": "MEX",
+      "player": "César Montes"
+    }
+  ],
+  "2": [
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "CZE",
+      "player": "Ladislav Krejcí"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Hwang Hee-Chan"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Adam Hlozek"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Tomás Chorý"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Michal Sadílek"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "KOR",
+      "player": "Hwang In-Beom"
+    },
+    {
+      "minute": "69'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Eom Ji-Sung"
+    },
+    {
+      "minute": "69'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Oh Hyeon-Gyu"
+    },
+    {
+      "minute": "80'",
+      "type": "goal",
+      "team": "KOR",
+      "player": "Oh Hyeon-Gyu"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Kim Jin-Gyu"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Park Jin-Seop"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Mojmír Chytil"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "yellow_card",
+      "team": "KOR",
+      "player": "Lee Gi-Hyuk"
+    }
+  ],
+  "3": [
+    {
+      "minute": "11'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Alistair Johnston"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "BIH",
+      "player": "Jovo Lukic"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Ermedin Demirovic"
+    },
+    {
+      "minute": "45'+1'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Jovo Lukic"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Luc de Fougerolles"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jacob Shaffelburg"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Promise David"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Ali Ahmed"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Samed Bazdar"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Armin Gigovic"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Ivan Sunjic"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Kerim Alajbegovic"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Dzenis Burnic"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jonathan Osorio"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Nikola Katic"
+    }
+  ],
+  "4": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Damián Bobadilla"
+    },
+    {
+      "minute": "10'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Juan Jose Cáceres"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Folarin Balogun"
+    },
+    {
+      "minute": "45'+5'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Folarin Balogun"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Maurício"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Miguel Almirón"
+    },
+    {
+      "minute": "59'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Tyler Adams"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Alex Arce"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Timothy Weah"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Ricardo Pepi"
+    },
+    {
+      "minute": "73'",
+      "type": "goal",
+      "team": "PAR",
+      "player": "Maurício"
+    },
+    {
+      "minute": "79'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Diego Gómez"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Ramón Sosa"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gustavo Velázquez"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Alejandro Romero Gamarra"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Giovanni Reyna"
+    },
+    {
+      "minute": "88'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Alex Arce"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Júnior Alonso"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Giovanni Reyna"
+    }
+  ],
+  "5": [
+    {
+      "minute": "28'",
+      "type": "goal",
+      "team": "SCO",
+      "player": "John McGinn"
+    },
+    {
+      "minute": "39'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Jean-Ricner Bellegarde"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow_card",
+      "team": "SCO",
+      "player": "Aaron Hickey"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Josué Casimir"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Ryan Christie"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Lyndon Dykes"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Nathan Patterson"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Lenny Joseph"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Findlay Curtis"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Kenny McLean"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Yassin Fortuné"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "yellow_card",
+      "team": "SCO",
+      "player": "Findlay Curtis"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "yellow_card",
+      "team": "SCO",
+      "player": "Kenny McLean"
+    }
+  ],
+  "6": [
+    {
+      "minute": "27'",
+      "type": "goal",
+      "team": "AUS",
+      "player": "Nestory Irankunda"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Kenan Yildiz"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Nishan Velupillay"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Yunus Akgün"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Tete Yengi"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Jason Geria"
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "AUS",
+      "player": "Connor Metcalfe"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Salih Özcan"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Mert Müldür"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Aziz Behich"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Jackson Irvine"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Deniz Gül"
+    },
+    {
+      "minute": "86'",
+      "type": "yellow_card",
+      "team": "TUR",
+      "player": "Yunus Akgün"
+    }
+  ],
+  "7": [
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Ismael Saibari"
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Vinícius Júnior"
+    },
+    {
+      "minute": "37'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Casemiro"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Roger Ibañez"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Danilo"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Fabinho"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Matheus Cunha"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Luiz Henrique"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Samir El Mourabet"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Chemsdine Talbi"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Anass Salah-Eddine"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Ayoube Amaimouni"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Danilo Santos"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    }
+  ],
+  "8": [
+    {
+      "minute": "16'",
+      "type": "yellow_card",
+      "team": "QAT",
+      "player": "Mahmoud Abunada"
+    },
+    {
+      "minute": "17'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Breel Embolo"
+    },
+    {
+      "minute": "23'",
+      "type": "yellow_card",
+      "team": "QAT",
+      "player": "Jassem Gaber"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Denis Zakaria"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Karim Boudiaf"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Ahmed Alaaeldin"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Fabian Rieder"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Johan Manzambi"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Mohamed Manai"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Zeki Amdouni"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Hassan Al-Haydos"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Ardon Jashari"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Miro Muheim"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "QAT",
+      "player": "Miro Muheim"
+    }
+  ],
+  "9": [
+    {
+      "minute": "28'",
+      "type": "yellow_card",
+      "team": "CIV",
+      "player": "Seko Fofana"
+    },
+    {
+      "minute": "38'",
+      "type": "yellow_card",
+      "team": "CIV",
+      "player": "Franck Kessié"
+    },
+    {
+      "minute": "40'",
+      "type": "yellow_card",
+      "team": "CIV",
+      "player": "Guela Doué"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Nilson Angulo"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Ange-Yoan Bonny"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Amad Diallo"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Jackson Porozo"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Ángelo Preciado"
+    },
+    {
+      "minute": "73'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Jackson Porozo"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Ibrahim Sangaré"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Christ Inao Oulaï"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Kevin Rodríguez"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Odilon Kossounou"
+    },
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "CIV",
+      "player": "Amad Diallo"
+    }
+  ],
+  "10": [
+    {
+      "minute": "6'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Felix Nmecha"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "CUW",
+      "player": "Livano Comenencia"
+    },
+    {
+      "minute": "38'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Nico Schlotterbeck"
+    },
+    {
+      "minute": "45'+5'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Kai Havertz"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Jeremy Antonisse"
+    },
+    {
+      "minute": "47'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Jamal Musiala"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Deniz Undav"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Jearl Margaritha"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Nathaniel Brown"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Antonio Rüdiger"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Leon Goretzka"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "David Raum"
+    },
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Deniz Undav"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Gervane Kastaneer"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Waldemar Anton"
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Kai Havertz"
+    }
+  ],
+  "11": [
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Virgil van Dijk"
+    },
+    {
+      "minute": "57'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Keito Nakamura"
+    },
+    {
+      "minute": "61'",
+      "type": "yellow_card",
+      "team": "NED",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": "64'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Junya Ito"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Memphis Depay"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Teun Koopmeiners"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Quinten Timber"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Yukinari Sugawara"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Takehiro Tomiyasu"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Koki Ogawa"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Nathan Aké"
+    },
+    {
+      "minute": "83'",
+      "type": "yellow_card",
+      "team": "NED",
+      "player": "Memphis Depay"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Kento Shiogai"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Brian Brobbey"
+    },
+    {
+      "minute": "89'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Daichi Kamada"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "yellow_card",
+      "team": "NED",
+      "player": "Micky van de Ven"
+    }
+  ],
+  "12": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Yasin Ayari"
+    },
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Alexander Isak"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "TUN",
+      "player": "Omar Rekik"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow_card",
+      "team": "TUN",
+      "player": "Rani Khedira"
+    },
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Viktor Gyökeres"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Elliot Stroud"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Lucas Bergvall"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Elias Achouri"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Sebastian Tounekti"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Mohamed Hadj Mahmoud"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Ismaël Gharbi"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Firas Chaouat"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Mattias Svanberg"
+    },
+    {
+      "minute": "84'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Mattias Svanberg"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Anthony Elanga"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Daniel Svensson"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Yasin Ayari"
+    }
+  ],
+  "13": [
+    {
+      "minute": "41'",
+      "type": "goal",
+      "team": "KSA",
+      "player": "Abdulelah Al-Amri"
+    },
+    {
+      "minute": "44'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Abdulelah Al-Amri"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Juan Manuel Sanabria"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Agustín Canobbio"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Nasser Al-Dawsari"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Nicolás de la Cruz"
+    },
+    {
+      "minute": "80'",
+      "type": "goal",
+      "team": "URU",
+      "player": "Maxi Araújo"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Brian Rodríguez"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Nawaf Boushal"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Rodrigo Aguirre"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Abdullah Al-Hamdan"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Ala Al-Hajji"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Ali Lajami"
+    }
+  ],
+  "14": [
+    {
+      "minute": "16'",
+      "type": "yellow_card",
+      "team": "CPV",
+      "player": "Sidny Lopes Cabral"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Willy Semedo"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Deroy Duarte"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Nuno da Costa"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Lamine Yamal"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "João Paulo"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Telmo Arcanjo"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Dani Olmo"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Pedri"
+    }
+  ],
+  "15": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "NZL",
+      "player": "Elijah Just"
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "IRN",
+      "player": "Ramin Rezaeian"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Mehdi Ghayedi"
+    },
+    {
+      "minute": "53'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Ali Alipour"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "NZL",
+      "player": "Elijah Just"
+    },
+    {
+      "minute": "64'",
+      "type": "goal",
+      "team": "IRN",
+      "player": "Mohammad Mohebbi"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Ehsan Hajsafi"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Ryan Thomas"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Ben Old"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Callan Elliot"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Amirhossein Hosseinzadeh"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Ehsan Hajsafi"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Jesse Randall"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Tyler Bindon"
+    }
+  ],
+  "16": [
+    {
+      "minute": "13'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Marawan Attia"
+    },
+    {
+      "minute": "14'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Timothy Castagne"
+    },
+    {
+      "minute": "20'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Emam Ashour"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Ahmed Fatouh"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Nicolas Raskin"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Maxim De Cuyper"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Mohamed Hany"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Ramy Rabia"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Maxim De Cuyper"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Zizo"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hamza Abdelkarim"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Matias Fernandez-Pardo"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Hans Vanaken"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Karim Hafez"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Ibrahim Adel"
+    }
+  ],
+  "17": [
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Ibrahim Mbaye"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Habib Diarra"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Iliman Ndiaye"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Bamba Dieng"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pathé Ciss"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Ibrahim Mbaye"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    }
+  ],
+  "18": [
+    {
+      "minute": "29'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "IRQ",
+      "player": "Aymen Hussein"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Zidane Iqbal"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Marko Farji"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Andreas Schjelderup"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Kristian Thorstvedt"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Oscar Bobb"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Leo Østigard"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Mustafa Saadoon"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Ahmed Qasim"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Leo Østigard"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Mohanad Ali"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Patrick Berg"
+    },
+    {
+      "minute": "86'",
+      "type": "yellow_card",
+      "team": "IRQ",
+      "player": "Zaid Tahseen"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Aymen Hussein"
+    }
+  ],
+  "19": [
+    {
+      "minute": "17'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nahuel Molina"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Julián Álvarez"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Houssem Aouar"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Mohamed Amoura"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Riyad Mahrez"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico Paz"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Adil Boulbina"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Ramiz Zerrouki"
+    }
+  ],
+  "20": [
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Romano Schmid"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "JOR",
+      "player": "Ali Olwan"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Paul Wanner"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Kevin Danso"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Carney Chukwuemeka"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Saleem Obaid"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Yazan Al-Arab"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow_card",
+      "team": "AUT",
+      "player": "Marcel Sabitzer"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Saed Al-Rosan"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mahmoud Al-Mardi"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Patrick Wimmer"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mohammad Al-Daoud"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Ali Azaizeh"
+    },
+    {
+      "minute": "90'+12'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    }
+  ],
+  "21": [
+    {
+      "minute": "16'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Caleb Yirenkyi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Benjamin Asare"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Brandon Thomas-Asante"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Fatawu Issahaku"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "José Fajardo"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Azarias Londoño"
+    },
+    {
+      "minute": "72'",
+      "type": "yellow_card",
+      "team": "PAN",
+      "player": "César Blackman"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Ismael Díaz"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Kwasi Sibo"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Prince Adu"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Aníbal Godoy"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "goal",
+      "team": "GHA",
+      "player": "Caleb Yirenkyi"
+    },
+    {
+      "minute": "90'+9'",
+      "type": "yellow_card",
+      "team": "PAN",
+      "player": "Carlos Harvey"
+    }
+  ],
+  "22": [
+    {
+      "minute": "12'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Martin Baturina"
+    },
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "45'+5'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Petar Musa"
+    },
+    {
+      "minute": "47'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Mateo Kovacic"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Igor Matanovic"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Marco Pasalic"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Morgan Rogers"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Marcus Rashford"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Andrej Kramaric"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Nikola Vlasic"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Djed Spence"
+    },
+    {
+      "minute": "85'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Marcus Rashford"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Marc Guéhi"
+    }
+  ],
+  "23": [
+    {
+      "minute": "6'",
+      "type": "goal",
+      "team": "POR",
+      "player": "João Neves"
+    },
+    {
+      "minute": "13'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Bernardo Silva"
+    },
+    {
+      "minute": "32'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Chancel Mbemba"
+    },
+    {
+      "minute": "45'+5'",
+      "type": "goal",
+      "team": "COD",
+      "player": "Yoane Wissa"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Francisco Conceição"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Noah Sadiki"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Rafael Leão"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Nélson Semedo"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Charles Pickel"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Joris Kayembe"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Gonçalo Ramos"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Gédéon Kalulu"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Simon Banza"
+    },
+    {
+      "minute": "88'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Nélson Semedo"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Tomás Araújo"
+    }
+  ],
+  "24": [
+    {
+      "minute": "7'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Johan Mojica"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow_card",
+      "team": "UZB",
+      "player": "Abdukodir Khusanov"
+    },
+    {
+      "minute": "40'",
+      "type": "goal",
+      "team": "COL",
+      "player": "Daniel Muñoz"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Dostonbek Khamdamov"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Farrukh Sayfiev"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "UZB",
+      "player": "Abbosbek Fayzullaev"
+    },
+    {
+      "minute": "65'",
+      "type": "goal",
+      "team": "COL",
+      "player": "Luis Díaz"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Jáminton Campaz"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Jakhongir Urozov"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Azizbek Amonov"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Cucho Hernández"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Andrés Gómez"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Kevin Castaño"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Igor Sergeev"
+    },
+    {
+      "minute": "90'+9'",
+      "type": "goal",
+      "team": "COL",
+      "player": "Jáminton Campaz"
+    }
+  ],
+  "25": [
+    {
+      "minute": "6'",
+      "type": "goal",
+      "team": "CZE",
+      "player": "Michal Sadílek"
+    },
+    {
+      "minute": "33'",
+      "type": "yellow_card",
+      "team": "RSA",
+      "player": "Teboho Mokoena"
+    },
+    {
+      "minute": "40'",
+      "type": "yellow_card",
+      "team": "RSA",
+      "player": "Thalente Mbatha"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Relebohile Mofokeng"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Pavel Sulc"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Jaroslav Zelený"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Evidence Makgopa"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Tomás Soucek"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Lukás Provod"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "CZE",
+      "player": "Ladislav Krejcí"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "David Zima"
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "team": "RSA",
+      "player": "Teboho Mokoena"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Kamogelo Sebelebele"
+    }
+  ],
+  "26": [
+    {
+      "minute": "59'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Amar Dedic"
+    },
+    {
+      "minute": "61'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Edin Dzeko"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Ivan Basic"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Esmir Bajraktarevic"
+    },
+    {
+      "minute": "65'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Nico Elvedi"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Djibril Sow"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Johan Manzambi"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Rubén Vargas"
+    },
+    {
+      "minute": "74'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Johan Manzambi"
+    },
+    {
+      "minute": "80'",
+      "type": "red_card",
+      "team": "BIH",
+      "player": "Tarik Muharemovic"
+    },
+    {
+      "minute": "84'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Rubén Vargas"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Jovo Lukic"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Amir Hadziahmetovic"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Luca Jaquez"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Cedric Itten"
+    },
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Johan Manzambi"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "goal",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    },
+    {
+      "minute": "90'+7'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Granit Xhaka"
+    }
+  ],
+  "27": [
+    {
+      "minute": "9'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Derek Cornelius"
+    },
+    {
+      "minute": "16'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "29'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Jonathan David"
+    },
+    {
+      "minute": "33'",
+      "type": "red_card",
+      "team": "QAT",
+      "player": "Homam Ahmed"
+    },
+    {
+      "minute": "40'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Sultan Al-Brake"
+    },
+    {
+      "minute": "45'+3'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Jonathan David"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Mohamed Manai"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Moïse Bombito"
+    },
+    {
+      "minute": "53'",
+      "type": "red_card",
+      "team": "QAT",
+      "player": "Assim Madibo"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Nathan Saliba"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Al-Hashmi Al-Hussain"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow_card",
+      "team": "QAT",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": "64'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Nathan Saliba"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jacob Shaffelburg"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Tani Oluwaseyi"
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Mohamed Manai"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Niko Sigur"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Lucas Mendes"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Jonathan David"
+    }
+  ],
+  "28": [
+    {
+      "minute": "4'",
+      "type": "yellow_card",
+      "team": "KOR",
+      "player": "Lee Kang-In"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Luis Romo"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Hwang Hee-Chan"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Oh Hyeon-Gyu"
+    },
+    {
+      "minute": "58'",
+      "type": "yellow_card",
+      "team": "KOR",
+      "player": "Paik Seung-Ho"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Orbelín Pineda"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Obed Vargas"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Eom Ji-Sung"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Yang Hyun-Jun"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Cho Gue-Sung"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Israel Reyes"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Santiago Gimenez"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "César Huerta"
+    }
+  ],
+  "29": [
+    {
+      "minute": "4'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Carlens Arcus"
+    },
+    {
+      "minute": "23'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Matheus Cunha"
+    },
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Matheus Cunha"
+    },
+    {
+      "minute": "40'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Rayan"
+    },
+    {
+      "minute": "45'+3'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Vinícius Júnior"
+    },
+    {
+      "minute": "45'+4'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Frantz Pierrot"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Wilson Isidor"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Dominique Simon"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Louicius Deedson"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Gabriel Martinelli"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Endrick"
+    },
+    {
+      "minute": "65'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Douglas Santos"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Lenny Joseph"
+    },
+    {
+      "minute": "72'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Danley Jean Jacques"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Danilo Santos"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Éderson"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Derrick Etienne Jr."
+    }
+  ],
+  "30": [
+    {
+      "minute": "2'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Ismael Saibari"
+    },
+    {
+      "minute": "23'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Issa Diop"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Ben Gannon-Doak"
+    },
+    {
+      "minute": "65'",
+      "type": "yellow_card",
+      "team": "SCO",
+      "player": "Andy Robertson"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Lyndon Dykes"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Kenny McLean"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Chemsdine Talbi"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Ayoube Amaimouni"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Anthony Ralston"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Ross Stewart"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Samir El Mourabet"
+    }
+  ],
+  "31": [
+    {
+      "minute": "2'",
+      "type": "goal",
+      "team": "PAR",
+      "player": "Matías Galarza"
+    },
+    {
+      "minute": "4'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Matías Galarza"
+    },
+    {
+      "minute": "45'+3'",
+      "type": "red_card",
+      "team": "PAR",
+      "player": "Miguel Almirón"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Damián Bobadilla"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Baris Alper Yilmaz"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Can Uzun"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Deniz Gül"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gustavo Velázquez"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Eren Elmali"
+    },
+    {
+      "minute": "71'",
+      "type": "yellow_card",
+      "team": "TUR",
+      "player": "Eren Elmali"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Alexandro Maidana"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Orkun Kökçü"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gabriel Ávalos"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "José Canale"
+    }
+  ],
+  "32": [
+    {
+      "minute": "11'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Cameron Burgess"
+    },
+    {
+      "minute": "16'",
+      "type": "yellow_card",
+      "team": "AUS",
+      "player": "Jordan Bos"
+    },
+    {
+      "minute": "32'",
+      "type": "yellow_card",
+      "team": "AUS",
+      "player": "Alessandro Circati"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Alex Freeman"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Jason Geria"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Connor Metcalfe"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Nestory Irankunda"
+    },
+    {
+      "minute": "56'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Antonee Robinson"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Cristian Volpato"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Jackson Irvine"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Joe Scally"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Auston Trusty"
+    },
+    {
+      "minute": "88'",
+      "type": "yellow_card",
+      "team": "AUS",
+      "player": "Harry Souttar"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Folarin Balogun"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "AUS",
+      "player": "Jacob Italiano"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Chris Richards"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Haji Wright"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Giovanni Reyna"
+    }
+  ],
+  "33": [
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "CIV",
+      "player": "Franck Kessié"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Antonio Rüdiger"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Jamie Leweling"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Deniz Undav"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Nadiem Amiri"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Deniz Undav"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Evann Guessand"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Seko Fofana"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Simon Adingra"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Guela Doué"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Nicolas Pépé"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Leon Goretzka"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Deniz Undav"
+    }
+  ],
+  "34": [
+    {
+      "minute": "38'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Jordy Alcívar"
+    },
+    {
+      "minute": "39'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Leandro Bacuna"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Kevin Rodríguez"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Juninho Bacuna"
+    },
+    {
+      "minute": "56'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Livano Comenencia"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Nilson Angulo"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Juriën Gaari"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Kenji Gorré"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Roshon van Eijma"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Jearl Margaritha"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Ángelo Preciado"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Gervane Kastaneer"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Godfried Roemeratoe"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Jordy Caicedo"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Gervane Kastaneer"
+    }
+  ],
+  "35": [
+    {
+      "minute": "5'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Brian Brobbey"
+    },
+    {
+      "minute": "17'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Brian Brobbey"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": "47'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Cody Gakpo"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow_card",
+      "team": "SWE",
+      "player": "Gabriel Gudmundsson"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Cody Gakpo"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Anthony Elanga"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Besfort Zeneli"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Lucas Bergvall"
+    },
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Anthony Elanga"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Teun Koopmeiners"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Guus Til"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Memphis Depay"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "SWE",
+      "player": "Yasin Ayari"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Taha Ali"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow_card",
+      "team": "SWE",
+      "player": "Lucas Bergvall"
+    },
+    {
+      "minute": "89'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Noa Lang"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Elliot Stroud"
+    }
+  ],
+  "36": [
+    {
+      "minute": "4'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Daichi Kamada"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Ayase Ueda"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Ismaël Gharbi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Mohamed Amine Ben Hamida"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Firas Chaouat"
+    },
+    {
+      "minute": "69'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Junya Ito"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Junnosuke Suzuki"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Yukinari Sugawara"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Yuito Suzuki"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Ayumu Seko"
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Ayase Ueda"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Keisuke Goto"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Rani Khedira"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Elias Achouri"
+    }
+  ],
+  "37": [
+    {
+      "minute": "5'",
+      "type": "yellow_card",
+      "team": "CPV",
+      "player": "Sidny Lopes Cabral"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow_card",
+      "team": "URU",
+      "player": "Rodrigo Bentancur"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "CPV",
+      "player": "Kevin Pina"
+    },
+    {
+      "minute": "44'",
+      "type": "goal",
+      "team": "URU",
+      "player": "Maxi Araújo"
+    },
+    {
+      "minute": "45'+6'",
+      "type": "goal",
+      "team": "URU",
+      "player": "Agustín Canobbio"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Deroy Duarte"
+    },
+    {
+      "minute": "58'",
+      "type": "yellow_card",
+      "team": "URU",
+      "player": "Mathías Olivera"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Nuno da Costa"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Hélio Varela"
+    },
+    {
+      "minute": "61'",
+      "type": "goal",
+      "team": "CPV",
+      "player": "Hélio Varela"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Darwin Núñez"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Nicolás de la Cruz"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Laros Duarte"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Yannick Semedo"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Brian Rodríguez"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "CPV",
+      "player": "Diney Borges"
+    }
+  ],
+  "38": [
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Lamine Yamal"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Oyarzabal"
+    },
+    {
+      "minute": "24'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Oyarzabal"
+    },
+    {
+      "minute": "30'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Salem Al-Dawsari"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Yéremy Pino"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Mohamed Kanno"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Abdullah Al-Hamdan"
+    },
+    {
+      "minute": "49'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Hassan Al-Tambakti"
+    },
+    {
+      "minute": "60'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Mohamed Kanno"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Mohammed Abu Al-Shamat"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Ala Al-Hajji"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Fabián Ruiz"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Khalid Al-Ghannam"
+    }
+  ],
+  "39": [
+    {
+      "minute": "3'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "33'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Saeid Ezatolahi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Alireza Jahanbakhsh"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Timothy Castagne"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Dodi Lukébakio"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Hans Vanaken"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Mehdi Torabi"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Milad Mohammadi"
+    },
+    {
+      "minute": "66'",
+      "type": "red_card",
+      "team": "BEL",
+      "player": "Nathan Ngoy"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Arthur Theate"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Shahriyar Moghanloo"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Amirhossein Hosseinzadeh"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Matias Fernandez-Pardo"
+    }
+  ],
+  "40": [
+    {
+      "minute": "15'",
+      "type": "goal",
+      "team": "NZL",
+      "player": "Finn Surman"
+    },
+    {
+      "minute": "17'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Mohanad Lashin"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow_card",
+      "team": "NZL",
+      "player": "Sarpreet Singh"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow_card",
+      "team": "NZL",
+      "player": "Callum McCowatt"
+    },
+    {
+      "minute": "41'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Ramy Rabia"
+    },
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Mostafa Zico"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Ben Old"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Mohamed Salah"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Jesse Randall"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Ryan Thomas"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Trézéguet"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hamza Abdelkarim"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Trézéguet"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Zizo"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hossam Abdelmaguid"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Tyler Bindon"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Francis de Vries"
+    },
+    {
+      "minute": "90'+9'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Mohamed Abdelmoneim"
+    }
+  ],
+  "41": [
+    {
+      "minute": "13'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Marcus Holmgren Pedersen"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Marcus Holmgren Pedersen"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Patrick Berg"
+    },
+    {
+      "minute": "48'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "53'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Ismaïla Sarr"
+    },
+    {
+      "minute": "54'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Ismail Jakobs"
+    },
+    {
+      "minute": "54'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Ibrahim Mbaye"
+    },
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Mory Diaw"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pathé Ciss"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Andreas Schjelderup"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pape Matar Sarr"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Oscar Bobb"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Leo Østigard"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Ismaïla Sarr"
+    }
+  ],
+  "42": [
+    {
+      "minute": "6'",
+      "type": "yellow_card",
+      "team": "IRQ",
+      "player": "Amir Al-Ammari"
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "26'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Ali Al-Hamadi"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Rebin Sulaka"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Youssef Amyn"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Désiré Doué"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Aimar Sher"
+    },
+    {
+      "minute": "69'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Marko Farji"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Maghnes Akliouche"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Malo Gusto"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Marcus Thuram"
+    }
+  ],
+  "43": [
+    {
+      "minute": "38'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "40'",
+      "type": "yellow_card",
+      "team": "AUT",
+      "player": "Stefan Posch"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Julián Álvarez"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Marco Friedl"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Alexander Prass"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    },
+    {
+      "minute": "76'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Facundo Medina"
+    },
+    {
+      "minute": "76'",
+      "type": "yellow_card",
+      "team": "AUT",
+      "player": "Konrad Laimer"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Patrick Wimmer"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Tagliafico"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Carney Chukwuemeka"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    }
+  ],
+  "44": [
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "JOR",
+      "player": "Nizar Al-Rashdan"
+    },
+    {
+      "minute": "44'",
+      "type": "yellow_card",
+      "team": "ALG",
+      "player": "Ramiz Zerrouki"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Nabil Bentaleb"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Nadhir Benbouali"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow_card",
+      "team": "JOR",
+      "player": "Husam Abu Dahab"
+    },
+    {
+      "minute": "69'",
+      "type": "goal",
+      "team": "ALG",
+      "player": "Nadhir Benbouali"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Anis Hadj Moussa"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Odeh Fakhoury"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "ALG",
+      "player": "Amine Gouiri"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Ali Azaizeh"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mohammad Abu Hasheesh"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Jaouen Hadjam"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Zineddine Belaïd"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Saleem Obaid"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mohammed Abu Zraiq"
+    }
+  ],
+  "45": [
+    {
+      "minute": "41'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Declan Rice"
+    },
+    {
+      "minute": "60'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Iñaki Williams"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Nico O'Reilly"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Fatawu Issahaku"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Prince Adu"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Morgan Rogers"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Eberechi Eze"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Marcus Rashford"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Kojo Peprah Oppong"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Baba Rahman"
+    }
+  ],
+  "46": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Ante Budimir"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Andrej Kramaric"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Ante Budimir"
+    },
+    {
+      "minute": "61'",
+      "type": "yellow_card",
+      "team": "PAN",
+      "player": "Édgar Yoel Bárcenas"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Luka Sucic"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Petar Sucic"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Cecilio Waterman"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Mario Pasalic"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Azarias Londoño"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Éric Davis"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Tomás Rodríguez"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "yellow_card",
+      "team": "CRO",
+      "player": "Petar Sucic"
+    }
+  ],
+  "47": [
+    {
+      "minute": "6'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Cristiano Ronaldo"
+    },
+    {
+      "minute": "14'",
+      "type": "yellow_card",
+      "team": "UZB",
+      "player": "Odiljon Xamrobekov"
+    },
+    {
+      "minute": "17'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Nuno Mendes"
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Cristiano Ronaldo"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Khojiakbar Alijonov"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Akmal Mozgovoy"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Nélson Semedo"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Francisco Conceição"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Abduvohid Nematov"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Francisco Trincão"
+    },
+    {
+      "minute": "68'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Renato Veiga"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Igor Sergeev"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Bernardo Silva"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Rafael Leão"
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Rafael Leão"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Ruslanbek Jiyanov"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Sherzod Esanov"
+    }
+  ],
+  "48": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Noah Sadiki"
+    },
+    {
+      "minute": "56'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Jhon Lucumí"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Simon Banza"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Jhon Córdoba"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Juan Fernando Quintero"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Joris Kayembe"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Charles Pickel"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "COL",
+      "player": "Daniel Muñoz"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Nathanaël Mbuku"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Charles Pickel"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Jefferson Lerma"
+    }
+  ],
+  "49": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Vinícius Júnior"
+    },
+    {
+      "minute": "45'+3'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Vinícius Júnior"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Kieran Tierney"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Matheus Cunha"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Danilo"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Fabinho"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Gabriel Martinelli"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Neymar"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Anthony Ralston"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Endrick"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Alex Sandro"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Ryan Christie"
+    },
+    {
+      "minute": "82'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Fabinho"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "SCO",
+      "player": "Ryan Christie"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Findlay Curtis"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "SCO",
+      "player": "Ché Adams"
+    }
+  ],
+  "50": [
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "HAI",
+      "player": "Yassine Bounou"
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Achraf Hakimi"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "HAI",
+      "player": "Wilson Isidor"
+    },
+    {
+      "minute": "45'+1'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Ismael Saibari"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Duckens Nazon"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Louicius Deedson"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Azzedine Ounahi"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Gessime Yassine"
+    },
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "79'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Johny Placide"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Duckens Nazon"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Carlens Arcus"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Dominique Simon"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Noussair Mazraoui"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Samir El Mourabet"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "HAI",
+      "player": "Frantz Pierrot"
+    },
+    {
+      "minute": "89'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Gessime Yassine"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "HAI",
+      "player": "Josué Casimir"
+    }
+  ],
+  "51": [
+    {
+      "minute": "32'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "32'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Granit Xhaka"
+    },
+    {
+      "minute": "46'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Rubén Vargas"
+    },
+    {
+      "minute": "57'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Johan Manzambi"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Stephen Eustáquio"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Tani Oluwaseyi"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Liam Millar"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Michel Aebischer"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Silvan Widmer"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Promise David"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Promise David"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Dan Ndoye"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jacob Shaffelburg"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Christian Fassnacht"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Cedric Itten"
+    },
+    {
+      "minute": "87'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Liam Millar"
+    }
+  ],
+  "52": [
+    {
+      "minute": "29'",
+      "type": "goal",
+      "team": "BIH",
+      "player": "Kerim Alajbegovic"
+    },
+    {
+      "minute": "34'",
+      "type": "goal",
+      "team": "BIH",
+      "player": "Mahmoud Abunada"
+    },
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "QAT",
+      "player": "Hassan Al-Haydos"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Benjamin Tahirovic"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Amar Memic"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Abdulaziz Hatem"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Ahmed Al-Ganehi"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Dennis Hadzikadunic"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Almoez Ali"
+    },
+    {
+      "minute": "78'",
+      "type": "yellow_card",
+      "team": "QAT",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Ahmed Alaaeldin"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "QAT",
+      "player": "Mohamed Manai"
+    },
+    {
+      "minute": "80'",
+      "type": "goal",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Dzenis Burnic"
+    },
+    {
+      "minute": "82'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    }
+  ],
+  "53": [
+    {
+      "minute": "55'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Mateo Chávez"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Lukás Provod"
+    },
+    {
+      "minute": "61'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Julián Quiñones"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Santiago Gimenez"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Obed Vargas"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow_card",
+      "team": "MEX",
+      "player": "Edson Álvarez"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Patrik Schick"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Tomás Soucek"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Álvaro Fidalgo"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Guillermo Ochoa"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Jesús Gallardo"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Tomás Chorý"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "CZE",
+      "player": "Alexandr Sojka"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Álvaro Fidalgo"
+    }
+  ],
+  "54": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Son Heung-Min"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Kim Jin-Gyu"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Jens Castrop"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Tshepang Moremi"
+    },
+    {
+      "minute": "63'",
+      "type": "goal",
+      "team": "RSA",
+      "player": "Thapelo Maseko"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Park Jin-Seop"
+    },
+    {
+      "minute": "73'",
+      "type": "yellow_card",
+      "team": "RSA",
+      "player": "Aubrey Modiba"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "KOR",
+      "player": "Cho Gue-Sung"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Iqraam Rayners"
+    },
+    {
+      "minute": "79'",
+      "type": "yellow_card",
+      "team": "KOR",
+      "player": "Cho Gue-Sung"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Jayden Adams"
+    }
+  ],
+  "55": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "CIV",
+      "player": "Nicolas Pépé"
+    },
+    {
+      "minute": "35'",
+      "type": "yellow_card",
+      "team": "CIV",
+      "player": "Nicolas Pépé"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Christ Inao Oulaï"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Jeremy Antonisse"
+    },
+    {
+      "minute": "64'",
+      "type": "goal",
+      "team": "CIV",
+      "player": "Nicolas Pépé"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Oumar Diakité"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Elye Wahi"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Bazoumana Touré"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Juninho Bacuna"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Gervane Kastaneer"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Tyrese Noslin"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Jean Michaël Seri"
+    },
+    {
+      "minute": "83'",
+      "type": "yellow_card",
+      "team": "CUW",
+      "player": "Gervane Kastaneer"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Shurandy Sambo"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "CUW",
+      "player": "Brandley Kuwas"
+    }
+  ],
+  "56": [
+    {
+      "minute": "2'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Leroy Sané"
+    },
+    {
+      "minute": "9'",
+      "type": "goal",
+      "team": "ECU",
+      "player": "Nilson Angulo"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Piero Hincapié"
+    },
+    {
+      "minute": "44'",
+      "type": "yellow_card",
+      "team": "GER",
+      "player": "Aleksandar Pavlovic"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Angelo Stiller"
+    },
+    {
+      "minute": "50'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Alan Franco"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Deniz Undav"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Malick Thiaw"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Kevin Rodríguez"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Ángelo Preciado"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Maximilian Beier"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Pervis Estupiñán"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Pascal Gross"
+    },
+    {
+      "minute": "77'",
+      "type": "goal",
+      "team": "ECU",
+      "player": "Gonzalo Plata"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Félix Torres"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Jordy Caicedo"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Gonzalo Plata"
+    }
+  ],
+  "57": [
+    {
+      "minute": "32'",
+      "type": "yellow_card",
+      "team": "SWE",
+      "player": "Isak Hien"
+    },
+    {
+      "minute": "37'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Lucas Bergvall"
+    },
+    {
+      "minute": "39'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Shogo Taniguchi"
+    },
+    {
+      "minute": "56'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Daizen Maeda"
+    },
+    {
+      "minute": "62'",
+      "type": "goal",
+      "team": "SWE",
+      "player": "Anthony Elanga"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Koki Ogawa"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Junya Ito"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Daniel Svensson"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Ken Sema"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Yuto Nagatomo"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Tsuyoshi Watanabe"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow_card",
+      "team": "JPN",
+      "player": "Shogo Taniguchi"
+    },
+    {
+      "minute": "85'",
+      "type": "yellow_card",
+      "team": "SWE",
+      "player": "Viktor Gyökeres"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Carl Starfelt"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Benjamin Nygren"
+    }
+  ],
+  "58": [
+    {
+      "minute": "3'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Ellyes Skhiri"
+    },
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Brian Brobbey"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "TUN",
+      "player": "Hazem Mastouri"
+    },
+    {
+      "minute": "62'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Jan Paul van Hecke"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Mohamed Hadj Mahmoud"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Elias Achouri"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Mortadha Ben Ouanes"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Teun Koopmeiners"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Justin Kluivert"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Firas Chaouat"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Memphis Depay"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Noa Lang"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "TUN",
+      "player": "Sebastian Tounekti"
+    }
+  ],
+  "59": [
+    {
+      "minute": "3'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Auston Trusty"
+    },
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "TUR",
+      "player": "Arda Güler"
+    },
+    {
+      "minute": "19'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "TUR",
+      "player": "Baris Alper Yilmaz"
+    },
+    {
+      "minute": "49'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Christian Pulisic"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Sergiño Dest"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Alejandro Zendejas"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Alex Freeman"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Çaglar Söyüncü"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Can Uzun"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Malik Tillman"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Kaan Ayhan"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Mert Müldür"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "TUR",
+      "player": "Irfan Can Kahveci"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "goal",
+      "team": "TUR",
+      "player": "Kaan Ayhan"
+    }
+  ],
+  "60": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Maurício"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow_card",
+      "team": "AUS",
+      "player": "Jackson Irvine"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Ajdin Hrustic"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Alex Arce"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Diego Gómez"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "José Canale"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Paul Okon-Engstler"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Tete Yengi"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Damián Bobadilla"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Júnior Alonso"
+    }
+  ],
+  "61": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "10'",
+      "type": "yellow_card",
+      "team": "NOR",
+      "player": "Patrick Berg"
+    },
+    {
+      "minute": "20'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Thelo Aasgaard"
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Morten Thorsby"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Marcus Holmgren Pedersen"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "65'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Sondre Langas"
+    },
+    {
+      "minute": "74'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Aurélien Tchouaméni"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Ibrahima Konaté"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Antonio Nusa"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Jens Petter Hauge"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Malo Gusto"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Jean-Philippe Mateta"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Désiré Doué"
+    }
+  ],
+  "62": [
+    {
+      "minute": "4'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Habib Diarra"
+    },
+    {
+      "minute": "13'",
+      "type": "red_card",
+      "team": "IRQ",
+      "player": "Rebin Sulaka"
+    },
+    {
+      "minute": "16'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Munaf Younus"
+    },
+    {
+      "minute": "18'",
+      "type": "yellow_card",
+      "team": "SEN",
+      "player": "Abdoulaye Seck"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Jalal Hassan"
+    },
+    {
+      "minute": "56'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Ismaïla Sarr"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Iliman Ndiaye"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Nicolas Jackson"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pape Gueye"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Ahmed Hasan"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Hashim Ali"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pathé Ciss"
+    },
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Pape Gueye"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "IRQ",
+      "player": "Kevin Yakob"
+    },
+    {
+      "minute": "71'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Pape Gueye"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow_card",
+      "team": "IRQ",
+      "player": "Amir Al-Ammari"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Assane Diao"
+    },
+    {
+      "minute": "81'",
+      "type": "yellow_card",
+      "team": "SEN",
+      "player": "Pape Gueye"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Iliman Ndiaye"
+    },
+    {
+      "minute": "90'",
+      "type": "yellow_card",
+      "team": "IRQ",
+      "player": "Merchas Doski"
+    }
+  ],
+  "63": [
+    {
+      "minute": "5'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Mahmoud Saber"
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "IRN",
+      "player": "Ramin Rezaeian"
+    },
+    {
+      "minute": "14'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Yasser Ibrahim"
+    },
+    {
+      "minute": "19'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Hossein Kanani"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Mahmoud Saber"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Yasser Ibrahim"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Ali Nemati"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Saleh Hardani"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Marawan Attia"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Omar Marmoush"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Zizo"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Shahriyar Moghanloo"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hamza Abdelkarim"
+    },
+    {
+      "minute": "79'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Saeid Ezatolahi"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "IRN",
+      "player": "Alireza Jahanbakhsh"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Mohanad Lashin"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "IRN",
+      "player": "Shoja Khalilzadeh"
+    }
+  ],
+  "64": [
+    {
+      "minute": "28'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Leandro Trossard"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Ben Old"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Jesse Randall"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow_card",
+      "team": "NZL",
+      "player": "Marko Stamenic"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Leandro Trossard"
+    },
+    {
+      "minute": "56'",
+      "type": "yellow_card",
+      "team": "NZL",
+      "player": "Elijah Just"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Matias Fernandez-Pardo"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Michael Boxall"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Callum McCowatt"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Kevin De Bruyne"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Alexis Saelemaekers"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Amadou Onana"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "NZL",
+      "player": "Francis de Vries"
+    },
+    {
+      "minute": "84'",
+      "type": "goal",
+      "team": "NZL",
+      "player": "Elijah Just"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Nicolas Raskin"
+    },
+    {
+      "minute": "86'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Alexis Saelemaekers"
+    }
+  ],
+  "65": [
+    {
+      "minute": "4'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Saud Abdulhamid"
+    },
+    {
+      "minute": "8'",
+      "type": "yellow_card",
+      "team": "CPV",
+      "player": "Wagner Pina"
+    },
+    {
+      "minute": "33'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Ali Lajami"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Musab Al-Juwayr"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Nuno da Costa"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Hélio Varela"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Mohammed Abu Al-Shamat"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Abdullah Al-Hamdan"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Nasser Al-Dawsari"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Laros Duarte"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Garry Rodrigues"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "KSA",
+      "player": "Moteb Al-Harbi"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "KSA",
+      "player": "Feras Al-Brikan"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Steven Moreira"
+    }
+  ],
+  "66": [
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Álex Baena"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Nicolás de la Cruz"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Sergio Rochet"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Álex Baena"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow_card",
+      "team": "URU",
+      "player": "Juan Manuel Sanabria"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Federico Viñas"
+    },
+    {
+      "minute": "58'",
+      "type": "yellow_card",
+      "team": "URU",
+      "player": "Guillermo Varela"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Fabián Ruiz"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Dani Olmo"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Yéremy Pino"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "URU",
+      "player": "Brian Rodríguez"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "URU",
+      "player": "Nicolás de la Cruz"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "red_card",
+      "team": "URU",
+      "player": "Agustín Canobbio"
+    }
+  ],
+  "67": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "José Fajardo"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow_card",
+      "team": "PAN",
+      "player": "José Fajardo"
+    },
+    {
+      "minute": "60'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Jarell Quansah"
+    },
+    {
+      "minute": "62'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Djed Spence"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Noni Madueke"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Eberechi Eze"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Ismael Díaz"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Azarias Londoño"
+    },
+    {
+      "minute": "84'",
+      "type": "yellow_card",
+      "team": "PAN",
+      "player": "Andrés Andrade"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Jordan Henderson"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Ollie Watkins"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Alberto Quintero"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "PAN",
+      "player": "Éric Davis"
+    }
+  ],
+  "68": [
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Petar Sucic"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Kojo Peprah Oppong"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Fatawu Issahaku"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Igor Matanovic"
+    },
+    {
+      "minute": "68'",
+      "type": "yellow_card",
+      "team": "CRO",
+      "player": "Ivan Perisic"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Brandon Thomas-Asante"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Ernest Nuamah"
+    },
+    {
+      "minute": "73'",
+      "type": "goal",
+      "team": "GHA",
+      "player": "Derrick Luckassen"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Mario Pasalic"
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Nikola Vlasic"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Caleb Yirenkyi"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Josko Gvardiol"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Marco Pasalic"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Kojo Peprah Oppong"
+    }
+  ],
+  "69": [
+    {
+      "minute": "11'",
+      "type": "yellow_card",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    },
+    {
+      "minute": "28'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "ALG",
+      "player": "Rafik Belghali"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Michael Gregoritsch"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Florian Grillitsch"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Paul Wanner"
+    },
+    {
+      "minute": "55'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Marcel Sabitzer"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "ALG",
+      "player": "Riyad Mahrez"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Kevin Danso"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Rayan Aït-Nouri"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Zineddine Belaïd"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Samir Chergui"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "goal",
+      "team": "ALG",
+      "player": "Riyad Mahrez"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Farès Ghedjemis"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Sasa Kalajdzic"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "goal",
+      "team": "AUT",
+      "player": "Sasa Kalajdzic"
+    }
+  ],
+  "70": [
+    {
+      "minute": "17'",
+      "type": "yellow_card",
+      "team": "JOR",
+      "player": "Mohannad Abu Taha"
+    },
+    {
+      "minute": "19'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Giovani Lo Celso"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mahmoud Al-Mardi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mousa Al-Tamari"
+    },
+    {
+      "minute": "55'",
+      "type": "goal",
+      "team": "JOR",
+      "player": "Mousa Al-Tamari"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Thiago Almada"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Alexis Mac Allister"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow_card",
+      "team": "JOR",
+      "player": "Yazan Al-Arab"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Valentín Barco"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Amer Jamous"
+    },
+    {
+      "minute": "80'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "José Manuel López"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Mohammed Abu Zraiq"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "JOR",
+      "player": "Saleem Obaid"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "JOR",
+      "player": "Mohammed Abu Zraiq"
+    }
+  ],
+  "71": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Diogo Dalot"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "João Neves"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Luis Suárez"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Rafael Leão"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Samú Costa"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Kevin Castaño"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Juan Fernando Quintero"
+    },
+    {
+      "minute": "86'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Gustavo Puerta"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Daniel Muñoz"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Matheus Nunes"
+    }
+  ],
+  "72": [
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "UZB",
+      "player": "Eldor Shomurodov"
+    },
+    {
+      "minute": "21'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Noah Sadiki"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "UZB",
+      "player": "Abdukodir Khusanov"
+    },
+    {
+      "minute": "45'+5'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Nathanaël Mbuku"
+    },
+    {
+      "minute": "48'",
+      "type": "yellow_card",
+      "team": "UZB",
+      "player": "Sherzod Nasrullaev"
+    },
+    {
+      "minute": "51'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Fiston Mayele"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Odiljon Xamrobekov"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Azizjon Ganiev"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Samuel Moutoussamy"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "team": "COD",
+      "player": "Yoane Wissa"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Meschack Elia"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Théo Bongonda"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Ngal'ayel Mukau"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Oston Urunov"
+    },
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "COD",
+      "player": "Fiston Mayele"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Jamshid Iskanderov"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "UZB",
+      "player": "Igor Sergeev"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Joris Kayembe"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "goal",
+      "team": "COD",
+      "player": "Yoane Wissa"
+    }
+  ],
+  "73": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Thalente Mbatha"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Nathan Saliba"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Niko Sigur"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Luc de Fougerolles"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Niko Sigur"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Promise David"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jacob Shaffelburg"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Alphonso Davies"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Iqraam Rayners"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "RSA",
+      "player": "Tshepang Moremi"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "goal",
+      "team": "CAN",
+      "player": "Stephen Eustáquio"
+    }
+  ],
+  "74": [
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "PAR",
+      "player": "Julio Enciso"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Leon Goretzka"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "GER",
+      "player": "Kai Havertz"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gustavo Caballero"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Maurício"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Jamal Musiala"
+    },
+    {
+      "minute": "65'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Andrés Cubas"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Waldemar Anton"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Nick Woltemade"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gustavo Velázquez"
+    },
+    {
+      "minute": "99'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Braian Ojeda"
+    },
+    {
+      "minute": "99'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Antonio Sanabria"
+    },
+    {
+      "minute": "106'",
+      "type": "yellow_card",
+      "team": "GER",
+      "player": "Kai Havertz"
+    },
+    {
+      "minute": "110'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Nadiem Amiri"
+    },
+    {
+      "minute": "110'",
+      "type": "substitution",
+      "team": "GER",
+      "player": "Malick Thiaw"
+    },
+    {
+      "minute": "115'",
+      "type": "yellow_card",
+      "team": "GER",
+      "player": "Jamal Musiala"
+    },
+    {
+      "minute": "117'",
+      "type": "yellow_card",
+      "team": "PAR",
+      "player": "Matías Galarza"
+    },
+    {
+      "minute": "120'+2'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Fabián Balbuena"
+    }
+  ],
+  "75": [
+    {
+      "minute": "47'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Issa Diop"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Teun Koopmeiners"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Wout Weghorst"
+    },
+    {
+      "minute": "72'",
+      "type": "goal",
+      "team": "NED",
+      "player": "Cody Gakpo"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Anass Salah-Eddine"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Gessime Yassine"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Samir El Mourabet"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Jorrel Hato"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Quinten Timber"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Chemsdine Talbi"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Issa Diop"
+    },
+    {
+      "minute": "110'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Marten de Roon"
+    },
+    {
+      "minute": "113'",
+      "type": "substitution",
+      "team": "NED",
+      "player": "Justin Kluivert"
+    }
+  ],
+  "76": [
+    {
+      "minute": "12'",
+      "type": "yellow_card",
+      "team": "JPN",
+      "player": "Kaishu Sano"
+    },
+    {
+      "minute": "14'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Casemiro"
+    },
+    {
+      "minute": "29'",
+      "type": "goal",
+      "team": "JPN",
+      "player": "Kaishu Sano"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow_card",
+      "team": "JPN",
+      "player": "Daichi Kamada"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Endrick"
+    },
+    {
+      "minute": "48'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Danilo"
+    },
+    {
+      "minute": "56'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Casemiro"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Gabriel Martinelli"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Junnosuke Suzuki"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Yukinari Sugawara"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Shuto Machino"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Ao Tanaka"
+    },
+    {
+      "minute": "84'",
+      "type": "yellow_card",
+      "team": "JPN",
+      "player": "Junnosuke Suzuki"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Fabinho"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Gabriel Martinelli"
+    },
+    {
+      "minute": "90'+7'",
+      "type": "substitution",
+      "team": "JPN",
+      "player": "Koki Ogawa"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Danilo Santos"
+    }
+  ],
+  "77": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "53'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Taha Ali"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Besfort Zeneli"
+    },
+    {
+      "minute": "74'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Désiré Doué"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Malo Gusto"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Theo Hernández"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Mattias Svanberg"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Benjamin Nygren"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Jean-Philippe Mateta"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "SWE",
+      "player": "Gustaf Nilsson"
+    }
+  ],
+  "78": [
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Antonio Nusa"
+    },
+    {
+      "minute": "45'+1'",
+      "type": "yellow_card",
+      "team": "NOR",
+      "player": "Antonio Nusa"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Amad Diallo"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Elye Wahi"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Andreas Schjelderup"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Oscar Bobb"
+    },
+    {
+      "minute": "74'",
+      "type": "goal",
+      "team": "CIV",
+      "player": "Amad Diallo"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Fredrik Aursnes"
+    },
+    {
+      "minute": "86'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Oumar Diakité"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Evann Guessand"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "CIV",
+      "player": "Bazoumana Touré"
+    }
+  ],
+  "79": [
+    {
+      "minute": "22'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Julián Quiñones"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Raúl Jiménez"
+    },
+    {
+      "minute": "45'+1'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Alan Franco"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Ángelo Preciado"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Yaimar Medina"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Brian Gutiérrez"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Kevin Rodríguez"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Obed Vargas"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Santiago Gimenez"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Jordy Caicedo"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "ECU",
+      "player": "Kendry Páez"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Orbelín Pineda"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Israel Reyes"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Kendry Páez"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "red_card",
+      "team": "ECU",
+      "player": "Piero Hincapié"
+    },
+    {
+      "minute": "90'+9'",
+      "type": "yellow_card",
+      "team": "ECU",
+      "player": "Moisés Caicedo"
+    }
+  ],
+  "80": [
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "COD",
+      "player": "Brian Cipenga"
+    },
+    {
+      "minute": "19'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow_card",
+      "team": "COD",
+      "player": "Noah Sadiki"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Anthony Gordon"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Meschack Elia"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Eberechi Eze"
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Théo Bongonda"
+    },
+    {
+      "minute": "76'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Edo Kayembe"
+    },
+    {
+      "minute": "86'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Joris Kayembe"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "COD",
+      "player": "Fiston Mayele"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "John Stones"
+    }
+  ],
+  "81": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Folarin Balogun"
+    },
+    {
+      "minute": "51'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Esmir Bajraktarevic"
+    },
+    {
+      "minute": "51'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Benjamin Tahirovic"
+    },
+    {
+      "minute": "51'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Ermin Mahmic"
+    },
+    {
+      "minute": "64'",
+      "type": "red_card",
+      "team": "USA",
+      "player": "Folarin Balogun"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Haris Tabakovic"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "BIH",
+      "player": "Amar Memic"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow_card",
+      "team": "BIH",
+      "player": "Stjepan Radeljic"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Malik Tillman"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "88'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Ricardo Pepi"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Giovanni Reyna"
+    }
+  ],
+  "82": [
+    {
+      "minute": "24'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Habib Diarra"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "SEN",
+      "player": "Ismaïla Sarr"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Dodi Lukébakio"
+    },
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Nicolas Raskin"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Diego Moreira"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Brandon Mechele"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Lamine Camara"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow_card",
+      "team": "SEN",
+      "player": "Lamine Camara"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Ibrahim Mbaye"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Pape Matar Sarr"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Thomas Meunier"
+    },
+    {
+      "minute": "86'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "89'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Youri Tielemans"
+    },
+    {
+      "minute": "94'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Nicolas Jackson"
+    },
+    {
+      "minute": "94'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "El Hadji Malick Diouf"
+    },
+    {
+      "minute": "96'",
+      "type": "substitution",
+      "team": "SEN",
+      "player": "Bara Sapoko Ndiaye"
+    },
+    {
+      "minute": "109'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Amadou Onana"
+    },
+    {
+      "minute": "120'+5'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Youri Tielemans"
+    }
+  ],
+  "83": [
+    {
+      "minute": "17'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Rúben Dias"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Igor Matanovic"
+    },
+    {
+      "minute": "53'",
+      "type": "goal",
+      "team": "CRO",
+      "player": "Ivan Perisic"
+    },
+    {
+      "minute": "59'",
+      "type": "yellow_card",
+      "team": "CRO",
+      "player": "Luka Modric"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Bernardo Silva"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Francisco Conceição"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Nélson Semedo"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Gonçalo Ramos"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Cristiano Ronaldo"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Mario Pasalic"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Rúben Neves"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Josko Gvardiol"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "goal",
+      "team": "POR",
+      "player": "Gonçalo Ramos"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "CRO",
+      "player": "Andrej Kramaric"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "yellow_card",
+      "team": "CRO",
+      "player": "Ivan Perisic"
+    }
+  ],
+  "84": [
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Oyarzabal"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Florian Grillitsch"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Carney Chukwuemeka"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Sasa Kalajdzic"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Marko Arnautovic"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Pedro Porro"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "83'",
+      "type": "yellow_card",
+      "team": "AUT",
+      "player": "Stefan Posch"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Gavi"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "AUT",
+      "player": "Alexander Prass"
+    },
+    {
+      "minute": "89'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Oyarzabal"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Fabián Ruiz"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Marc Pubill"
+    }
+  ],
+  "85": [
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Breel Embolo"
+    },
+    {
+      "minute": "36'",
+      "type": "yellow_card",
+      "team": "ALG",
+      "player": "Farès Chaïbi"
+    },
+    {
+      "minute": "46'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Dan Ndoye"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Jaouen Hadjam"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Amine Gouiri"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Fabian Rieder"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Noah Okafor"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Hicham Boudaoui"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Anis Hadj Moussa"
+    },
+    {
+      "minute": "72'",
+      "type": "yellow_card",
+      "team": "ALG",
+      "player": "Hicham Boudaoui"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ALG",
+      "player": "Adil Boulbina"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Zeki Amdouni"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Silvan Widmer"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Michel Aebischer"
+    }
+  ],
+  "86": [
+    {
+      "minute": "29'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "CPV",
+      "player": "Deroy Duarte"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Julián Álvarez"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Jamiro Monteiro"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Dailon Livramento"
+    },
+    {
+      "minute": "68'",
+      "type": "yellow_card",
+      "team": "CPV",
+      "player": "Kevin Pina"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Willy Semedo"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Hélio Varela"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Tagliafico"
+    },
+    {
+      "minute": "92'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lisandro Martínez"
+    },
+    {
+      "minute": "100'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Yannick Semedo"
+    },
+    {
+      "minute": "100'",
+      "type": "substitution",
+      "team": "CPV",
+      "player": "Gilson Benchimol"
+    },
+    {
+      "minute": "103'",
+      "type": "goal",
+      "team": "CPV",
+      "player": "Sidny Lopes Cabral"
+    },
+    {
+      "minute": "104'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Gonzalo Montiel"
+    },
+    {
+      "minute": "111'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Diney Borges"
+    },
+    {
+      "minute": "115'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Gonzalo Montiel"
+    }
+  ],
+  "87": [
+    {
+      "minute": "8'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Luis Suárez"
+    },
+    {
+      "minute": "12'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Jhon Arias"
+    },
+    {
+      "minute": "13'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Alidu Seidu"
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "COL",
+      "player": "Jhon Arias"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "49'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Caleb Yirenkyi"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Fatawu Issahaku"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Elisha Owusu"
+    },
+    {
+      "minute": "66'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Fatawu Issahaku"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Juan Fernando Quintero"
+    },
+    {
+      "minute": "76'",
+      "type": "yellow_card",
+      "team": "GHA",
+      "player": "Alidu Seidu"
+    },
+    {
+      "minute": "78'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Ernest Nuamah"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "GHA",
+      "player": "Prince Adu"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Jáminton Campaz"
+    }
+  ],
+  "88": [
+    {
+      "minute": "13'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Emam Ashour"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Kai Trewin"
+    },
+    {
+      "minute": "55'",
+      "type": "goal",
+      "team": "AUS",
+      "player": "Mohamed Hany"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Haissem Hassan"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hossam Abdelmaguid"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Ajdin Hrustic"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Mohamed Toure"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Trézéguet"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Paul Okon-Engstler"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Awer Mabil"
+    },
+    {
+      "minute": "105'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Haissem Hassan"
+    },
+    {
+      "minute": "105'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hamza Abdelkarim"
+    },
+    {
+      "minute": "119'",
+      "type": "substitution",
+      "team": "AUS",
+      "player": "Mathew Ryan"
+    },
+    {
+      "minute": "120'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Yasser Ibrahim"
+    },
+    {
+      "minute": "120'+1'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Mahmoud Saber"
+    }
+  ],
+  "89": [
+    {
+      "minute": "19'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "José Canale"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gustavo Caballero"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Désiré Doué"
+    },
+    {
+      "minute": "70'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Maurício"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "PAR",
+      "player": "Gabriel Ávalos"
+    },
+    {
+      "minute": "81'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Manu Koné"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "90'+7'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Michael Olise"
+    }
+  ],
+  "90": [
+    {
+      "minute": "20'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Redouane Halhal"
+    },
+    {
+      "minute": "22'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "40'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Achraf Hakimi"
+    },
+    {
+      "minute": "40'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Richie Laryea"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Jonathan David"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Azzedine Ounahi"
+    },
+    {
+      "minute": "45'+6'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Bilal El Khannouss"
+    },
+    {
+      "minute": "49'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Luc de Fougerolles"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Azzedine Ounahi"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Chemsdine Talbi"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Sofyan Amrabat"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow_card",
+      "team": "CAN",
+      "player": "Cyle Larin"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Promise David"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jacob Shaffelburg"
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Azzedine Ounahi"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Marwane Saadane"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Samir El Mourabet"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jonathan Osorio"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "CAN",
+      "player": "Jayden Nelson"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "goal",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    }
+  ],
+  "91": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Oscar Bobb"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Andreas Schjelderup"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Endrick"
+    },
+    {
+      "minute": "63'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Fredrik Aursnes"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Neymar"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Danilo Santos"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "BRA",
+      "player": "Éderson"
+    },
+    {
+      "minute": "79'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Erling Haaland"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Leo Østigard"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "yellow_card",
+      "team": "BRA",
+      "player": "Neymar"
+    },
+    {
+      "minute": "90'+10'",
+      "type": "goal",
+      "team": "BRA",
+      "player": "Neymar"
+    }
+  ],
+  "92": [
+    {
+      "minute": "1'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Declan Rice"
+    },
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "38'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Julián Quiñones"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Edson Álvarez"
+    },
+    {
+      "minute": "54'",
+      "type": "red_card",
+      "team": "ENG",
+      "player": "Jarell Quansah"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "John Stones"
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Harry Kane"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Santiago Gimenez"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Brian Gutiérrez"
+    },
+    {
+      "minute": "68'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Marc Guéhi"
+    },
+    {
+      "minute": "69'",
+      "type": "goal",
+      "team": "MEX",
+      "player": "Raúl Jiménez"
+    },
+    {
+      "minute": "71'",
+      "type": "yellow_card",
+      "team": "MEX",
+      "player": "Jorge Sánchez"
+    },
+    {
+      "minute": "72'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Nico O'Reilly"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Djed Spence"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Dan Burn"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Álvaro Fidalgo"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "MEX",
+      "player": "Guillermo Martínez"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Morgan Rogers"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "yellow_card",
+      "team": "MEX",
+      "player": "Johan Vásquez"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Jordan Henderson"
+    }
+  ],
+  "93": [
+    {
+      "minute": "56'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Nélson Semedo"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Diogo Dalot"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Rafael Leão"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Francisco Conceição"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "POR",
+      "player": "Bernardo Silva"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Fabián Ruiz"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Bernardo Silva"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "POR",
+      "player": "Renato Veiga"
+    },
+    {
+      "minute": "90'+7'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Borja Iglesias"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    }
+  ],
+  "94": [
+    {
+      "minute": "9'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Charles De Ketelaere"
+    },
+    {
+      "minute": "21'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Hans Vanaken"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "USA",
+      "player": "Malik Tillman"
+    },
+    {
+      "minute": "33'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Charles De Ketelaere"
+    },
+    {
+      "minute": "35'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Weston McKennie"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Giovanni Reyna"
+    },
+    {
+      "minute": "57'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Hans Vanaken"
+    },
+    {
+      "minute": "59'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Sebastian Berhalter"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Jérémy Doku"
+    },
+    {
+      "minute": "67'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "69'",
+      "type": "yellow_card",
+      "team": "USA",
+      "player": "Malik Tillman"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Ricardo Pepi"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Alexis Saelemaekers"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Axel Witsel"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Max Arfsten"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "USA",
+      "player": "Haji Wright"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    }
+  ],
+  "95": [
+    {
+      "minute": "15'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Yasser Ibrahim"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Hamdy Fathy"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "EGY",
+      "player": "Mostafa Zico"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Gonzalo Montiel"
+    },
+    {
+      "minute": "73'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Trézéguet"
+    },
+    {
+      "minute": "79'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Cristian Romero"
+    },
+    {
+      "minute": "80'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Omar Marmoush"
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lionel Messi"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Enzo Fernández"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Mostafa Shoubir"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Hamdy Fathy"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Facundo Medina"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "EGY",
+      "player": "Zizo"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Marawan Attia"
+    },
+    {
+      "minute": "90'+12'",
+      "type": "yellow_card",
+      "team": "EGY",
+      "player": "Haissem Hassan"
+    }
+  ],
+  "96": [
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Djibril Sow"
+    },
+    {
+      "minute": "51'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Granit Xhaka"
+    },
+    {
+      "minute": "59'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Denis Zakaria"
+    },
+    {
+      "minute": "60'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Luis Suárez"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Juan Fernando Quintero"
+    },
+    {
+      "minute": "66'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Jáminton Campaz"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Miro Muheim"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Richard Ríos"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Cucho Hernández"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Silvan Widmer"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Cedric Itten"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Rubén Vargas"
+    },
+    {
+      "minute": "95'",
+      "type": "yellow_card",
+      "team": "COL",
+      "player": "Davinson Sánchez"
+    },
+    {
+      "minute": "103'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Zeki Amdouni"
+    },
+    {
+      "minute": "105'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Miro Muheim"
+    },
+    {
+      "minute": "119'",
+      "type": "substitution",
+      "team": "COL",
+      "player": "Yerry Mina"
+    }
+  ],
+  "97": [
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Soufiane Rahimi"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Sofyan Amrabat"
+    },
+    {
+      "minute": "63'",
+      "type": "yellow_card",
+      "team": "MAR",
+      "player": "Issa Diop"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Warren Zaïre-Emery"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Zakaria El Ouahdi"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Gessime Yassine"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Jean-Philippe Mateta"
+    },
+    {
+      "minute": "77'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "MAR",
+      "player": "Amine Sbaï"
+    },
+    {
+      "minute": "87'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Malo Gusto"
+    }
+  ],
+  "98": [
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Fabián Ruiz"
+    },
+    {
+      "minute": "41'",
+      "type": "goal",
+      "team": "BEL",
+      "player": "Charles De Ketelaere"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Pau Cubarsí"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "55'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Pedri"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Axel Witsel"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Romelu Lukaku"
+    },
+    {
+      "minute": "61'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Joaquin Seys"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Senne Lammens"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "85'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Kevin De Bruyne"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "BEL",
+      "player": "Alexis Saelemaekers"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Aymeric Laporte"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "yellow_card",
+      "team": "BEL",
+      "player": "Axel Witsel"
+    }
+  ],
+  "99": [
+    {
+      "minute": "36'",
+      "type": "goal",
+      "team": "NOR",
+      "player": "Andreas Schjelderup"
+    },
+    {
+      "minute": "45'+2'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Eberechi Eze"
+    },
+    {
+      "minute": "60'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Fredrik Aursnes"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Oscar Bobb"
+    },
+    {
+      "minute": "68'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Antonio Nusa"
+    },
+    {
+      "minute": "71'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Reece James"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Djed Spence"
+    },
+    {
+      "minute": "89'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Morgan Rogers"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Marcus Holmgren Pedersen"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Leo Østigard"
+    },
+    {
+      "minute": "93'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "105'",
+      "type": "substitution",
+      "team": "NOR",
+      "player": "Jørgen Strand Larsen"
+    },
+    {
+      "minute": "111'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Dan Burn"
+    },
+    {
+      "minute": "117'",
+      "type": "yellow_card",
+      "team": "NOR",
+      "player": "Kristoffer Ajer"
+    }
+  ],
+  "100": [
+    {
+      "minute": "10'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Alexis Mac Allister"
+    },
+    {
+      "minute": "44'",
+      "type": "yellow_card",
+      "team": "SUI",
+      "player": "Breel Embolo"
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "SUI",
+      "player": "Dan Ndoye"
+    },
+    {
+      "minute": "72'",
+      "type": "red_card",
+      "team": "SUI",
+      "player": "Breel Embolo"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "85'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Gonzalo Montiel"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Silvan Widmer"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Zeki Amdouni"
+    },
+    {
+      "minute": "86'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Miro Muheim"
+    },
+    {
+      "minute": "90'+5'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Eray Cömert"
+    },
+    {
+      "minute": "90'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Thiago Almada"
+    },
+    {
+      "minute": "96'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Ardon Jashari"
+    },
+    {
+      "minute": "97'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Thiago Almada"
+    },
+    {
+      "minute": "98'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "105'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "110'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "José Manuel López"
+    },
+    {
+      "minute": "112'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Julián Álvarez"
+    },
+    {
+      "minute": "114'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "José Manuel López"
+    },
+    {
+      "minute": "115'",
+      "type": "substitution",
+      "team": "SUI",
+      "player": "Rubén Vargas"
+    },
+    {
+      "minute": "120'+1'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    }
+  ],
+  "101": [
+    {
+      "minute": "9'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Adrien Rabiot"
+    },
+    {
+      "minute": "22'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Mikel Oyarzabal"
+    },
+    {
+      "minute": "30'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Maxence Lacroix"
+    },
+    {
+      "minute": "31'",
+      "type": "yellow_card",
+      "team": "ESP",
+      "player": "Marc Cucurella"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Manu Koné"
+    },
+    {
+      "minute": "57'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Désiré Doué"
+    },
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Pedro Porro"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Theo Hernández"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Rayan Cherki"
+    },
+    {
+      "minute": "74'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "78'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Pedri"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Marcos Llorente"
+    },
+    {
+      "minute": "84'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "86'",
+      "type": "yellow_card",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    }
+  ],
+  "102": [
+    {
+      "minute": "37'",
+      "type": "yellow_card",
+      "team": "ENG",
+      "player": "Elliot Anderson"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Lisandro Martínez"
+    },
+    {
+      "minute": "51'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Cristian Romero"
+    },
+    {
+      "minute": "55'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Anthony Gordon"
+    },
+    {
+      "minute": "64'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nico González"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Ezri Konsa"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Gonzalo Montiel"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Rodrigo De Paul"
+    },
+    {
+      "minute": "72'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "81'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Dan Burn"
+    },
+    {
+      "minute": "82'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Nico O'Reilly"
+    },
+    {
+      "minute": "85'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Enzo Fernández"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "goal",
+      "team": "ARG",
+      "player": "Lautaro Martínez"
+    },
+    {
+      "minute": "90'+4'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Rodrigo De Paul"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Ivan Toney"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Marcus Rashford"
+    }
+  ],
+  "103": [
+    {
+      "minute": "3'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Declan Rice"
+    },
+    {
+      "minute": "18'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Ezri Konsa"
+    },
+    {
+      "minute": "37'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "45'+1'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Lucas Digne"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Dayot Upamecano"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Ollie Watkins"
+    },
+    {
+      "minute": "48'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Bradley Barcola"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Kylian Mbappé"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Elliot Anderson"
+    },
+    {
+      "minute": "79'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    },
+    {
+      "minute": "83'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Reece James"
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Bukayo Saka"
+    },
+    {
+      "minute": "90'+1'",
+      "type": "substitution",
+      "team": "FRA",
+      "player": "Jules Koundé"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "substitution",
+      "team": "ENG",
+      "player": "Trevoh Chalobah"
+    },
+    {
+      "minute": "90'+6'",
+      "type": "goal",
+      "team": "FRA",
+      "player": "Ousmane Dembélé"
+    },
+    {
+      "minute": "90'+8'",
+      "type": "goal",
+      "team": "ENG",
+      "player": "Jude Bellingham"
+    }
+  ],
+  "104": [
+    {
+      "minute": "41'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Lisandro Martínez"
+    },
+    {
+      "minute": "44'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nicolás Otamendi"
+    },
+    {
+      "minute": "45'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": "52'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": "58'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Nahuel Molina"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "62'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Pedri"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Facundo Medina"
+    },
+    {
+      "minute": "70'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Giuliano Simeone"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Nico Williams"
+    },
+    {
+      "minute": "75'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Mikel Merino"
+    },
+    {
+      "minute": "82'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Enzo Fernández"
+    },
+    {
+      "minute": "90'+2'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Cristian Romero"
+    },
+    {
+      "minute": "90'+3'",
+      "type": "red_card",
+      "team": "ARG",
+      "player": "Enzo Fernández"
+    },
+    {
+      "minute": "99'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Martín Zubimendi"
+    },
+    {
+      "minute": "99'",
+      "type": "substitution",
+      "team": "ESP",
+      "player": "Eric García"
+    },
+    {
+      "minute": "102'",
+      "type": "substitution",
+      "team": "ARG",
+      "player": "Marcos Senesi"
+    },
+    {
+      "minute": "106'",
+      "type": "goal",
+      "team": "ESP",
+      "player": "Ferran Torres"
+    },
+    {
+      "minute": "111'",
+      "type": "yellow_card",
+      "team": "ARG",
+      "player": "Alexis Mac Allister"
+    }
+  ]
+}

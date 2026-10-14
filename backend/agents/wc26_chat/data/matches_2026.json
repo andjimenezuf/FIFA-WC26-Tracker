@@ -1,0 +1,1978 @@
+[
+  {
+    "number": 1,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "MEX",
+      "name": "Mexico",
+      "score": 2
+    },
+    "away": {
+      "code": "RSA",
+      "name": "South Africa",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-11T19:00:00Z",
+    "venue": "Mexico City Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 2,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "KOR",
+      "name": "South Korea",
+      "score": null
+    },
+    "away": {
+      "code": "CZE",
+      "name": "Czechia",
+      "score": null
+    },
+    "winner": null,
+    "kickoffAt": "2026-06-12T02:00:00Z",
+    "venue": "Guadalajara Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 3,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "CAN",
+      "name": "Canada",
+      "score": 1
+    },
+    "away": {
+      "code": "BIH",
+      "name": "Bosnia & Herzegovina",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-12T19:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 4,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "USA",
+      "name": "United States",
+      "score": 4
+    },
+    "away": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-13T01:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 5,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "HAI",
+      "name": "Haiti",
+      "score": null
+    },
+    "away": {
+      "code": "SCO",
+      "name": "Scotland",
+      "score": null
+    },
+    "winner": null,
+    "kickoffAt": "2026-06-14T01:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 6,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "AUS",
+      "name": "Australia",
+      "score": 2
+    },
+    "away": {
+      "code": "TUR",
+      "name": "Türkiye",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-14T04:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 7,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "BRA",
+      "name": "Brazil",
+      "score": 1
+    },
+    "away": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-13T22:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 8,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "QAT",
+      "name": "Qatar",
+      "score": 1
+    },
+    "away": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-13T19:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 9,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "score": 1
+    },
+    "away": {
+      "code": "ECU",
+      "name": "Ecuador",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-14T23:00:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 10,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "GER",
+      "name": "Germany",
+      "score": 7
+    },
+    "away": {
+      "code": "CUW",
+      "name": "Curaçao",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-14T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 11,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "NED",
+      "name": "Netherlands",
+      "score": 2
+    },
+    "away": {
+      "code": "JPN",
+      "name": "Japan",
+      "score": 2
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-14T20:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 12,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "SWE",
+      "name": "Sweden",
+      "score": 5
+    },
+    "away": {
+      "code": "TUN",
+      "name": "Tunisia",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-15T02:00:00Z",
+    "venue": "Monterrey Stadium",
+    "venueTz": "America/Monterrey"
+  },
+  {
+    "number": 13,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "score": null
+    },
+    "away": {
+      "code": "URU",
+      "name": "Uruguay",
+      "score": null
+    },
+    "winner": null,
+    "kickoffAt": "2026-06-15T22:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 14,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 0
+    },
+    "away": {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-15T16:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 15,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "IRN",
+      "name": "Iran",
+      "score": null
+    },
+    "away": {
+      "code": "NZL",
+      "name": "New Zealand",
+      "score": null
+    },
+    "winner": null,
+    "kickoffAt": "2026-06-16T01:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 16,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 1
+    },
+    "away": {
+      "code": "EGY",
+      "name": "Egypt",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-15T19:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 17,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "FRA",
+      "name": "France",
+      "score": 3
+    },
+    "away": {
+      "code": "SEN",
+      "name": "Senegal",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-16T19:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 18,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "IRQ",
+      "name": "Iraq",
+      "score": 1
+    },
+    "away": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 4
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-16T22:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 19,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 3
+    },
+    "away": {
+      "code": "ALG",
+      "name": "Algeria",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-17T01:00:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 20,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "AUT",
+      "name": "Austria",
+      "score": 3
+    },
+    "away": {
+      "code": "JOR",
+      "name": "Jordan",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-17T04:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 21,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "GHA",
+      "name": "Ghana",
+      "score": 1
+    },
+    "away": {
+      "code": "PAN",
+      "name": "Panama",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-17T23:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 22,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "ENG",
+      "name": "England",
+      "score": 4
+    },
+    "away": {
+      "code": "CRO",
+      "name": "Croatia",
+      "score": 2
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-17T20:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 23,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "POR",
+      "name": "Portugal",
+      "score": 1
+    },
+    "away": {
+      "code": "COD",
+      "name": "DR Congo",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-17T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 24,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "score": 1
+    },
+    "away": {
+      "code": "COL",
+      "name": "Colombia",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-18T02:00:00Z",
+    "venue": "Mexico City Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 25,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "CZE",
+      "name": "Czechia",
+      "score": 1
+    },
+    "away": {
+      "code": "RSA",
+      "name": "South Africa",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-18T16:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 26,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 4
+    },
+    "away": {
+      "code": "BIH",
+      "name": "Bosnia & Herzegovina",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-18T19:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 27,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "CAN",
+      "name": "Canada",
+      "score": 6
+    },
+    "away": {
+      "code": "QAT",
+      "name": "Qatar",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-18T22:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 28,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "MEX",
+      "name": "Mexico",
+      "score": 1
+    },
+    "away": {
+      "code": "KOR",
+      "name": "South Korea",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-19T01:00:00Z",
+    "venue": "Guadalajara Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 29,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "BRA",
+      "name": "Brazil",
+      "score": 3
+    },
+    "away": {
+      "code": "HAI",
+      "name": "Haiti",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-20T00:30:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 30,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "SCO",
+      "name": "Scotland",
+      "score": 0
+    },
+    "away": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 1
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-19T22:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 31,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "TUR",
+      "name": "Türkiye",
+      "score": 0
+    },
+    "away": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "score": 1
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-20T03:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 32,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "USA",
+      "name": "United States",
+      "score": 2
+    },
+    "away": {
+      "code": "AUS",
+      "name": "Australia",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-19T19:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 33,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "GER",
+      "name": "Germany",
+      "score": 2
+    },
+    "away": {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-20T20:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 34,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "ECU",
+      "name": "Ecuador",
+      "score": 0
+    },
+    "away": {
+      "code": "CUW",
+      "name": "Curaçao",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-21T00:00:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 35,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "NED",
+      "name": "Netherlands",
+      "score": 5
+    },
+    "away": {
+      "code": "SWE",
+      "name": "Sweden",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-20T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 36,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "TUN",
+      "name": "Tunisia",
+      "score": 0
+    },
+    "away": {
+      "code": "JPN",
+      "name": "Japan",
+      "score": 4
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-21T04:00:00Z",
+    "venue": "Monterrey Stadium",
+    "venueTz": "America/Monterrey"
+  },
+  {
+    "number": 37,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "URU",
+      "name": "Uruguay",
+      "score": 2
+    },
+    "away": {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "score": 2
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-21T22:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 38,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 4
+    },
+    "away": {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-21T16:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 39,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 0
+    },
+    "away": {
+      "code": "IRN",
+      "name": "Iran",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-21T19:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 40,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "NZL",
+      "name": "New Zealand",
+      "score": 1
+    },
+    "away": {
+      "code": "EGY",
+      "name": "Egypt",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-22T01:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 41,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 3
+    },
+    "away": {
+      "code": "SEN",
+      "name": "Senegal",
+      "score": 2
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-23T00:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 42,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "FRA",
+      "name": "France",
+      "score": 3
+    },
+    "away": {
+      "code": "IRQ",
+      "name": "Iraq",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-22T21:00:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 43,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 2
+    },
+    "away": {
+      "code": "AUT",
+      "name": "Austria",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-22T17:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 44,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "JOR",
+      "name": "Jordan",
+      "score": 1
+    },
+    "away": {
+      "code": "ALG",
+      "name": "Algeria",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-23T03:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 45,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "ENG",
+      "name": "England",
+      "score": 0
+    },
+    "away": {
+      "code": "GHA",
+      "name": "Ghana",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-23T20:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 46,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "PAN",
+      "name": "Panama",
+      "score": 0
+    },
+    "away": {
+      "code": "CRO",
+      "name": "Croatia",
+      "score": 1
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-23T23:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 47,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "POR",
+      "name": "Portugal",
+      "score": 5
+    },
+    "away": {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-23T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 48,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "COL",
+      "name": "Colombia",
+      "score": 1
+    },
+    "away": {
+      "code": "COD",
+      "name": "DR Congo",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-24T02:00:00Z",
+    "venue": "Guadalajara Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 49,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "SCO",
+      "name": "Scotland",
+      "score": 0
+    },
+    "away": {
+      "code": "BRA",
+      "name": "Brazil",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-24T22:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 50,
+    "round": "Group",
+    "group": "C",
+    "home": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 4
+    },
+    "away": {
+      "code": "HAI",
+      "name": "Haiti",
+      "score": 2
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-24T22:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 51,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 2
+    },
+    "away": {
+      "code": "CAN",
+      "name": "Canada",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-24T19:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 52,
+    "round": "Group",
+    "group": "B",
+    "home": {
+      "code": "BIH",
+      "name": "Bosnia & Herzegovina",
+      "score": 3
+    },
+    "away": {
+      "code": "QAT",
+      "name": "Qatar",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-24T19:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 53,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "CZE",
+      "name": "Czechia",
+      "score": 0
+    },
+    "away": {
+      "code": "MEX",
+      "name": "Mexico",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-25T01:00:00Z",
+    "venue": "Mexico City Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 54,
+    "round": "Group",
+    "group": "A",
+    "home": {
+      "code": "RSA",
+      "name": "South Africa",
+      "score": 1
+    },
+    "away": {
+      "code": "KOR",
+      "name": "South Korea",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-25T01:00:00Z",
+    "venue": "Monterrey Stadium",
+    "venueTz": "America/Monterrey"
+  },
+  {
+    "number": 55,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "CUW",
+      "name": "Curaçao",
+      "score": 0
+    },
+    "away": {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-25T20:00:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 56,
+    "round": "Group",
+    "group": "E",
+    "home": {
+      "code": "ECU",
+      "name": "Ecuador",
+      "score": 2
+    },
+    "away": {
+      "code": "GER",
+      "name": "Germany",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-25T20:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 57,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "JPN",
+      "name": "Japan",
+      "score": 1
+    },
+    "away": {
+      "code": "SWE",
+      "name": "Sweden",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-25T23:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 58,
+    "round": "Group",
+    "group": "F",
+    "home": {
+      "code": "TUN",
+      "name": "Tunisia",
+      "score": 1
+    },
+    "away": {
+      "code": "NED",
+      "name": "Netherlands",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-25T23:00:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 59,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "TUR",
+      "name": "Türkiye",
+      "score": 3
+    },
+    "away": {
+      "code": "USA",
+      "name": "United States",
+      "score": 2
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-26T02:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 60,
+    "round": "Group",
+    "group": "D",
+    "home": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "score": 0
+    },
+    "away": {
+      "code": "AUS",
+      "name": "Australia",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-26T02:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 61,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 1
+    },
+    "away": {
+      "code": "FRA",
+      "name": "France",
+      "score": 4
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-26T19:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 62,
+    "round": "Group",
+    "group": "I",
+    "home": {
+      "code": "SEN",
+      "name": "Senegal",
+      "score": 5
+    },
+    "away": {
+      "code": "IRQ",
+      "name": "Iraq",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-26T19:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 63,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "EGY",
+      "name": "Egypt",
+      "score": 1
+    },
+    "away": {
+      "code": "IRN",
+      "name": "Iran",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-27T03:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 64,
+    "round": "Group",
+    "group": "G",
+    "home": {
+      "code": "NZL",
+      "name": "New Zealand",
+      "score": 1
+    },
+    "away": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 5
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-27T03:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 65,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "score": 0
+    },
+    "away": {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-27T00:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 66,
+    "round": "Group",
+    "group": "H",
+    "home": {
+      "code": "URU",
+      "name": "Uruguay",
+      "score": 0
+    },
+    "away": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 1
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-27T00:00:00Z",
+    "venue": "Guadalajara Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 67,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "PAN",
+      "name": "Panama",
+      "score": 0
+    },
+    "away": {
+      "code": "ENG",
+      "name": "England",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-27T21:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 68,
+    "round": "Group",
+    "group": "L",
+    "home": {
+      "code": "CRO",
+      "name": "Croatia",
+      "score": 2
+    },
+    "away": {
+      "code": "GHA",
+      "name": "Ghana",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-27T21:00:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 69,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "ALG",
+      "name": "Algeria",
+      "score": 3
+    },
+    "away": {
+      "code": "AUT",
+      "name": "Austria",
+      "score": 3
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-28T02:00:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 70,
+    "round": "Group",
+    "group": "J",
+    "home": {
+      "code": "JOR",
+      "name": "Jordan",
+      "score": 1
+    },
+    "away": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-28T02:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 71,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "COL",
+      "name": "Colombia",
+      "score": 0
+    },
+    "away": {
+      "code": "POR",
+      "name": "Portugal",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-27T23:30:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 72,
+    "round": "Group",
+    "group": "K",
+    "home": {
+      "code": "COD",
+      "name": "DR Congo",
+      "score": 3
+    },
+    "away": {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-27T23:30:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 73,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "RSA",
+      "name": "South Africa",
+      "score": 0
+    },
+    "away": {
+      "code": "CAN",
+      "name": "Canada",
+      "score": 1
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-28T19:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 74,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "GER",
+      "name": "Germany",
+      "score": 1
+    },
+    "away": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-29T20:30:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 75,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 1
+    },
+    "away": {
+      "code": "NED",
+      "name": "Netherlands",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-06-30T01:00:00Z",
+    "venue": "Monterrey Stadium",
+    "venueTz": "America/Monterrey"
+  },
+  {
+    "number": 76,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "BRA",
+      "name": "Brazil",
+      "score": 2
+    },
+    "away": {
+      "code": "JPN",
+      "name": "Japan",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-29T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 77,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "FRA",
+      "name": "France",
+      "score": 3
+    },
+    "away": {
+      "code": "SWE",
+      "name": "Sweden",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-06-30T21:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 78,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "score": 1
+    },
+    "away": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-06-30T17:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 79,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "MEX",
+      "name": "Mexico",
+      "score": 2
+    },
+    "away": {
+      "code": "ECU",
+      "name": "Ecuador",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-01T01:00:00Z",
+    "venue": "Mexico City Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 80,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "ENG",
+      "name": "England",
+      "score": 2
+    },
+    "away": {
+      "code": "COD",
+      "name": "DR Congo",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-01T16:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 81,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "USA",
+      "name": "United States",
+      "score": 2
+    },
+    "away": {
+      "code": "BIH",
+      "name": "Bosnia & Herzegovina",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-02T00:00:00Z",
+    "venue": "San Francisco Bay Area Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 82,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 3
+    },
+    "away": {
+      "code": "SEN",
+      "name": "Senegal",
+      "score": 2
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-01T20:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 83,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "POR",
+      "name": "Portugal",
+      "score": 2
+    },
+    "away": {
+      "code": "CRO",
+      "name": "Croatia",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-02T23:00:00Z",
+    "venue": "Toronto Stadium",
+    "venueTz": "America/Toronto"
+  },
+  {
+    "number": 84,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 3
+    },
+    "away": {
+      "code": "AUT",
+      "name": "Austria",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-02T19:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 85,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 2
+    },
+    "away": {
+      "code": "ALG",
+      "name": "Algeria",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-03T03:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 86,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "score": 2
+    },
+    "away": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-03T22:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 87,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "COL",
+      "name": "Colombia",
+      "score": 1
+    },
+    "away": {
+      "code": "GHA",
+      "name": "Ghana",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-04T01:30:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 88,
+    "round": "Round of 32",
+    "group": null,
+    "home": {
+      "code": "AUS",
+      "name": "Australia",
+      "score": 1
+    },
+    "away": {
+      "code": "EGY",
+      "name": "Egypt",
+      "score": 1
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-07-03T18:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 89,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "FRA",
+      "name": "France",
+      "score": 1
+    },
+    "away": {
+      "code": "PAR",
+      "name": "Paraguay",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-04T21:00:00Z",
+    "venue": "Philadelphia Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 90,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "CAN",
+      "name": "Canada",
+      "score": 0
+    },
+    "away": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-04T17:00:00Z",
+    "venue": "Houston Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 91,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "BRA",
+      "name": "Brazil",
+      "score": 1
+    },
+    "away": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-05T20:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 92,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "MEX",
+      "name": "Mexico",
+      "score": 2
+    },
+    "away": {
+      "code": "ENG",
+      "name": "England",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-06T00:00:00Z",
+    "venue": "Mexico City Stadium",
+    "venueTz": "America/Mexico_City"
+  },
+  {
+    "number": 93,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 1
+    },
+    "away": {
+      "code": "POR",
+      "name": "Portugal",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-06T19:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 94,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "USA",
+      "name": "United States",
+      "score": 1
+    },
+    "away": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 4
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-07T00:00:00Z",
+    "venue": "Seattle Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 95,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "EGY",
+      "name": "Egypt",
+      "score": 2
+    },
+    "away": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-07T16:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 96,
+    "round": "Round of 16",
+    "group": null,
+    "home": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 0
+    },
+    "away": {
+      "code": "COL",
+      "name": "Colombia",
+      "score": 0
+    },
+    "winner": "draw",
+    "kickoffAt": "2026-07-07T20:00:00Z",
+    "venue": "BC Place Vancouver",
+    "venueTz": "America/Vancouver"
+  },
+  {
+    "number": 97,
+    "round": "Quarterfinal",
+    "group": null,
+    "home": {
+      "code": "MAR",
+      "name": "Morocco",
+      "score": 0
+    },
+    "away": {
+      "code": "FRA",
+      "name": "France",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-09T20:00:00Z",
+    "venue": "Boston Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 98,
+    "round": "Quarterfinal",
+    "group": null,
+    "home": {
+      "code": "BEL",
+      "name": "Belgium",
+      "score": 1
+    },
+    "away": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-10T19:00:00Z",
+    "venue": "Los Angeles Stadium",
+    "venueTz": "America/Los_Angeles"
+  },
+  {
+    "number": 99,
+    "round": "Quarterfinal",
+    "group": null,
+    "home": {
+      "code": "NOR",
+      "name": "Norway",
+      "score": 1
+    },
+    "away": {
+      "code": "ENG",
+      "name": "England",
+      "score": 2
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-11T21:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 100,
+    "round": "Quarterfinal",
+    "group": null,
+    "home": {
+      "code": "SUI",
+      "name": "Switzerland",
+      "score": 1
+    },
+    "away": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 3
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-12T01:00:00Z",
+    "venue": "Kansas City Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 101,
+    "round": "Semifinal",
+    "group": null,
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 2
+    },
+    "away": {
+      "code": "FRA",
+      "name": "France",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-14T19:00:00Z",
+    "venue": "Dallas Stadium",
+    "venueTz": "America/Chicago"
+  },
+  {
+    "number": 102,
+    "round": "Semifinal",
+    "group": null,
+    "home": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 2
+    },
+    "away": {
+      "code": "ENG",
+      "name": "England",
+      "score": 1
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-15T19:00:00Z",
+    "venue": "Atlanta Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 103,
+    "round": "Third place",
+    "group": null,
+    "home": {
+      "code": "FRA",
+      "name": "France",
+      "score": 4
+    },
+    "away": {
+      "code": "ENG",
+      "name": "England",
+      "score": 6
+    },
+    "winner": "away",
+    "kickoffAt": "2026-07-18T21:00:00Z",
+    "venue": "Miami Stadium",
+    "venueTz": "America/New_York"
+  },
+  {
+    "number": 104,
+    "round": "Final",
+    "group": null,
+    "home": {
+      "code": "ESP",
+      "name": "Spain",
+      "score": 1
+    },
+    "away": {
+      "code": "ARG",
+      "name": "Argentina",
+      "score": 0
+    },
+    "winner": "home",
+    "kickoffAt": "2026-07-19T19:00:00Z",
+    "venue": "New York/New Jersey Stadium",
+    "venueTz": "America/New_York"
+  }
+]

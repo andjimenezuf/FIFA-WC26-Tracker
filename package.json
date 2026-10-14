@@ -1,0 +1,32 @@
+{
+  "name": "worldcup-adk-domain-reference",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "bun@1.3.2",
+  "scripts": {
+    "arena": "bun run lib/arena/run.ts",
+    "sync:markets": "bun run lib/predictions/sync.ts",
+    "format": "biome format --write .",
+    "format:check": "biome format .",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "@vercel/blob": "^2.5.0",
+    "@vercel/functions": "^3.7.2",
+    "ai": "7.0.0-beta.178",
+    "bottleneck": "^2.19.5",
+    "react": "^19.2.7"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.0",
+    "@types/node": "24.x",
+    "@types/react": "^19.2.17",
+    "typescript": "6.0.3"
+  },
+  "overrides": {
+    "ai": "7.0.0-beta.178"
+  }
+}
